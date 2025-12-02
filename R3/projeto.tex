@@ -1,0 +1,112 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{array} % provides >{...} and \arraybackslash for column formatting
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\title{Relatório 3: Correção e Modernização da Documentação da planta STEC e Calibração do Sensor de Nível}
+\author{Eduardo Henrique Basilio de Carvalho \\ Renan Neves da Silva}
+\date{Dezembro de 2025}
+
+\begin{document}
+
+\maketitle
+
+\section{Introdução}
+
+\section{Documentação e Projeto}
+
+\subsection{Nova Estrutura de Identificação}
+
+A planta foi dividida em duas unidades principais para a numeração dos instrumentos: 
+
+\begin{itemize}
+    \item Unidade 100: Tanque de Aquecimento (TAQ) e linhas associadas;
+    \item Unidade 200: Tanque de Produto (TP) e linhas associadas.
+\end{itemize}
+
+As letras de As letras de identificação foram atualizadas para remover os sufixos "CV" (Control Valve) dos TAGs de válvulas, passando a usar apenas "V" (Valve), conforme a norma ISA 5.1-2009.
+
+\subsection{Lista de Instrumentos}
+
+Nesta tabela, os instrumentos são listados com suas novas identificações:
+
+\begin{table}[ht]
+\centering
+\small
+\begin{tabular}{>{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{2.2cm} >{\raggedright\arraybackslash}p{4cm} >{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{2.2cm}}
+\hline
+\textbf{Novo TAG} & \textbf{TAG Antigo} & \textbf{Descrição} & \textbf{Unidade} & \textbf{Tipo de Sinal} \\
+\hline
+\multicolumn{5}{l}{\textbf{Malha 101 - Controle de Nível do TAQ}} \\
+LIT-101 & LIT1 & Transmissor Indicador de Nível & TAQ & Fieldbus \\
+LIC-101 & LC1 & Controlador Indicador de Nível & TAQ & Fieldbus \\
+LV-101 & LCV1 & Válvula de Controle de Nível & TAQ & Pneumático \\
+LSH-101 & - & Chave de Nível Alto & TAQ & Fieldbus \\
+LSL-101 & - & Chave de Nível Baixo & TAQ & Fieldbus \\
+\hline
+\multicolumn{5}{l}{\textbf{Malha 102 - Controle de Temperatura do TAQ}} \\
+TIT-102 & TIT1 & Transmissor Indicador de Temperatura & TAQ & Fieldbus \\
+TIC-102 & TC1 & Controlador Indicador de Temperatura & TAQ & Fieldbus \\
+TY-102A & - & Conversor de Sinal & Campo & 4-20 mA \\
+TY-102B & - & Conversor de Sinal & Campo & Tensão \\
+TY-102C & - & Módulo de Potência & TAQ & Elétrico de Potência \\
+TZ-102 & Resistor & Elemento Final de Temperatura & TAQ & Elétrico de Potência \\
+TE-102 & TE1 & Elemento Sensor de Temperatura & TAQ & Físico \\
+\hline
+\multicolumn{5}{l}{\textbf{Malha 201 - Controle de Nível do TP}} \\
+LIT-201 & LIT2 & Transmissor Indicador de Nível & TP & Fieldbus \\
+LIC-201 & LC2 & Controlador Indicador de Nível & TP & Fieldbus \\
+LV-201 & LCV2 & Válvula de Controle de Nível & TP & Pneumático \\
+LSH-201 & - & Chave de Nível Alto & TP & Fieldbus \\
+LSL-201 & - & Chave de Nível Baixo & TP & Fieldbus \\
+\hline
+\multicolumn{5}{l}{\textbf{Malha 202 - Controle de Temperatura do TP}} \\
+TIT-202 & TIT2 & Transmissor Indicador de Temperatura & TP & Fieldbus \\
+TIC-202 & TC2 & Controlador Indicador de Temperatura & TP & Fieldbus \\
+TY-202 & - & Conversor de Sinal & Campo & 4-20 mA \\
+TE-202 & TE2 & Elemento Sensor de Temperatura & TP & Físico \\
+TV-202 & TCV1 & Válvula de Controle de Temperatura & TP & Pneumático \\
+\hline
+\multicolumn{5}{l}{\textbf{Malha 203 - Controle de Vazão de Saída do TP}} \\
+FIT-203 & FIT4 & Transmissor Indicador de Vazão & TP & Fieldbus \\
+FIC-203 & FC4 & Controlador Indicador de Vazão & TP & Fieldbus \\
+FV-203 & FCV1 & Válvula de Controle de Vazão & TP & Pneumático \\
+\hline
+\multicolumn{5}{l}{\textbf{Instrumentos de Indicação e Outros}} \\
+FIT-103 & FIT1 & Transmissor de Vazão (Linha de entrada TAQ) & TAQ & Fieldbus \\
+FIT-204 & FIT3 & Transmissor de Vazão (Linha de entrada TP Fria) & TP & Fieldbus \\
+FIT-205 & FIT2 & Transmissor de Vazão (Linha de entrada TP Quente) & TP & Fieldbus \\
+LG-101 & LG1 & Visor de Nível (Local) & TAQ & Visual \\
+LG-201 & LG2 & Visor de Nível (Local) & TP & Visual \\
+P-101 & BA1 & Bomba Centrífuga (Alimentação) & TR & Elétrico \\
+P-201 & BA2 & Bomba Centrífuga (Recirculação/Drenagem) & TP & Elétrico \\
+\hline
+\end{tabular}
+\caption{Lista de Instrumentos — novas identificações}
+\label{tab:lista-instrumentos}
+\end{table}
+
+\subsection{Descritivo Funcional das Malhas}
+
+\subsubsection{Malha de Controle de Nível do TAQ}
+A finalidade desta malha é manter o nível de água do Tanque de Aquecimento (TAQ) no setpoint definido. O transmissor de nível LIT-101 (pressão diferencial) comunica a variável de processo ao controlador LIC-101 via rede Fieldbus. O controlador opera em malha fechada, calcula a ação corretiva e envia o comando ao conversor LY-101, que converte o sinal para o formato adequado ao atuador e pilota a válvula pneumática LV-101, modulando a entrada de água proveniente do reservatório. Medidas de segurança e alarmes locais estão associadas a limites alto/baixo de nível.
+
+\subsubsection{Malha de Controle de Temperatura do TAQ}
+Esta malha regula a temperatura do fluido no TAQ. O transmissor TIT-102 mede a temperatura e transmite ao controlador TIC-102. O controlador compara com o setpoint e transmite o sinal de controle para o módulo de potência TY-102, que atua sobre o elemento final TZ-102 (resistor de potência), que opera em controle proporcional modulado para ajustar a potência de aquecimento e manter a temperatura desejada. Sinalização e supervisão são realizadas via Fieldbus.
+
+\subsubsection{Malha de Controle de Nível do TP}
+Responsável por manter o nível do Tanque de Produto (TP) no valor de setpoint. O transmissor LIT-201 mede o nível e envia ao controlador LIC-201. O controlador atua sobre a válvula LV-201, regulando a entrada de água fria (diretamente do reservatório) para o TP. O laço é projetado para resposta estável à variação de carga, com alarmes configurados para condições de nível crítico.
+
+\subsubsection{Malha de Controle de Temperatura do TP}
+Controla a temperatura da mistura no Tanque de Produto. A medida de temperatura é feita por TIT-202 e enviada a TIC-202, que calcula a ação de controle. O atuador é a válvula de controle TV-202, que regula o fluxo de água quente proveniente do TAQ; ao modular esse fluxo, ajusta-se a energia fornecida ao TP e, consequentemente, sua temperatura.
+
+\subsubsection{Malha de Controle de Vazão de Saída}
+Esta malha controla a vazão de escoamento do TP para manter a taxa de saída desejada. O transmissor de vazão FIT-203 fornece a medida ao controlador FIC-203, que atua sobre a válvula FV-203 (linha de saída), permitindo direcionar o fluxo para retorno ao reservatório ou descarte. O controlador mantém o setpoint de vazão e garante estabilidade diante de perturbações de nível e entrada.
+
+
+
+\end{document}

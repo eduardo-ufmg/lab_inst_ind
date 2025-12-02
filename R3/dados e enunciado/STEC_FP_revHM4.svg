@@ -1,0 +1,2676 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gerado pelo Microsoft Visio, SVG Export STEC_FP_revHM4.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st25">
+	<v:documentProperties v:langID="2070" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="PETagFormats" v:val="VT4()"/>
+			<v:ud v:nameU="PEUserOptions" v:val="VT0(15):26"/>
+			<v:ud v:nameU="PEJunctionMaster" v:val="VT4(Junção)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="msvNoSubprocess" v:prompt="" v:val="VT0(1):26"/>
+			<v:ud v:nameU="msvConvertTheme"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {marker-end:url(#mrkr4-6);stroke:#000000;stroke-linecap:butt;stroke-width:1}
+		.st2 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.35714285714286}
+		.st3 {fill:#ffffff}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st6 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st8 {fill:#ffffff;stroke:#000000;stroke-linecap:butt;stroke-width:1}
+		.st9 {stroke:#000000;stroke-linecap:butt;stroke-width:1}
+		.st10 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st11 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st12 {marker-start:url(#mrkr4-70);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st13 {marker-start:url(#mrkr13-76);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st14 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.40983606557377}
+		.st15 {marker-start:url(#mrkr4-70);stroke:#000000;stroke-linecap:butt;stroke-width:1}
+		.st16 {marker-end:url(#mrkr4-6);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st17 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st18 {fill:#000000;font-family:Calibri;font-size:0.499992em}
+		.st19 {font-size:1em}
+		.st20 {stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st21 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st22 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st23 {fill:#000000;font-family:Calibri;font-size:0.583328em}
+		.st24 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st25 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-6" class="st2" v:arrowType="4" v:arrowSize="1" v:setback="5.6" refX="-5.6" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.8,-2.8) "/>
+		</marker>
+		<marker id="mrkr4-70" class="st2" v:arrowType="4" v:arrowSize="1" v:setback="5.24" refX="5.24" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(2.8) "/>
+		</marker>
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-76" class="st14" v:arrowType="13" v:arrowSize="0" v:setback="6.96" refX="6.96" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(2.44) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="PEHideTags" v:prompt="" v:val="VT0(1):26"/>
+		</v:userDefs>
+		<title>Página-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Anotações" v:index="0"/>
+		<v:layer v:name="Válvula" v:index="1"/>
+		<v:layer v:name="Rede de Tubagens" v:index="2"/>
+		<v:layer v:name="Instrumento" v:index="3"/>
+		<v:layer v:name="Equipamento" v:index="4"/>
+		<v:layer v:name="Linha de Sinal" v:index="5"/>
+		<v:layer v:name="Tubagem" v:index="6"/>
+		<v:layer v:name="Ajustamento do Fluxo" v:index="7"/>
+		<v:layer v:name="Instrument" v:index="8"/>
+		<v:layer v:name="Signal Line" v:index="9"/>
+		<v:layer v:name="Contêiner" v:index="10"/>
+		<v:layer v:name="Valve" v:index="11"/>
+		<v:layer v:name="Connector" v:index="12"/>
+		<v:layer v:name="Pipelines" v:index="13"/>
+		<v:layer v:name="Tubulações" v:index="14"/>
+		<g id="shape796-1" v:mID="796" v:groupContext="shape" v:layerMember="2" transform="translate(192.362,-370.809)">
+			<title>Conexão Dinâmica.796</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-143)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(143):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-143" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.7035" cy="833.248" width="96.01" height="14.4037"/>
+			<path d="M7.07 841.89 L7.1 841.89 L7.1 1045.52" class="st1"/>
+		</g>
+		<g id="shape798-7" v:mID="798" v:groupContext="shape" v:layerMember="4" transform="translate(264.841,-331.103)">
+			<title>Depósito Aberto.798</title>
+			<desc>001-TQ-02</desc>
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Ocultar Borda do Depósito" v:type="3" v:langID="2070" v:val="VT0(1):26"/>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(1):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Equipamento)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(E-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="E-0" v:val="VT4(Equipamento)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,Material,Manufacturer,Model" v:val="VT4(Equipamento)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(E-14)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="E-14" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="32.5135" cy="849.843" width="64" height="17.6036"/>
+			<path d="M0 841.89 L66.97 841.89 L66.97 740.38 L0 740.38 L0 841.89 Z" class="st3"/>
+			<path d="M0 841.89 L66.97 841.89 L66.97 740.38M0 740.38 L0 841.89" class="st4"/>
+			<text x="15.29" y="852.24" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>001-TQ-02</text>		</g>
+		<g id="shape799-11" v:mID="799" v:groupContext="shape" v:layerMember="4" transform="translate(445.285,-574.107)">
+			<title>Depósito fechado.799</title>
+			<desc>001-TQ-01</desc>
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Tipo de tecto do depósito fechado" v:type="1"
+						v:format="Tecto plano;Tecto pontiagudo" v:langID="2070" v:val="VT4(Tecto plano)"/>
+				<v:cp v:nameU="SubType2" v:lbl="Mostrar reservatório de depósito fechado" v:type="3" v:langID="2070"
+						v:val="VT0(0):26"/>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="SubType2" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SubType2" v:val="VT0(0):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Equipamento)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(E-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="E-0" v:val="VT4(Equipamento)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,Material,Manufacturer,Model" v:val="VT4(Equipamento)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(E-16)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(16):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="E-16" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.8964" cy="850.485" width="64" height="17.6036"/>
+			<path d="M0 841.89 L59 841.89 L65.55 841.89 L78.67 841.89 L78.67 717.54 L39.33 717.54 L0 717.54 L0 841.89 Z"
+					class="st6"/>
+			<text x="0.67" y="852.89" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>001-TQ-01</text>		</g>
+		<g id="shape800-14" v:mID="800" v:groupContext="shape" v:layerMember="1" transform="translate(235.419,-402.922)">
+			<title>Válvula de macho roscado.800</title>
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Tipo de válvula" v:type="1" v:format="Macho Roscado;Bloqueio;Bobina" v:langID="2070"
+						v:val="VT4(Macho Roscado)"/>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="ValveClass" v:lbl="Classe da Válvula" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="4" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-25" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(25):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(V-25)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.58186" cy="847.387" width="48" height="7.20349"/>
+			<path d="M0 830.52 L0 838.1 L15.16 830.52 L15.16 838.1 L0 830.52 Z" class="st3"/>
+			<path d="M0 830.52 L0 838.1 L15.16 830.52 L15.16 838.1 L0 830.52" class="st7"/>
+			<path d="M7.58 834.31 L7.58 826.73" class="st7"/>
+			<path d="M3.79 826.73 L11.37 826.73" class="st7"/>
+		</g>
+		<g id="shape803-19" v:mID="803" v:groupContext="shape" v:layerMember="1" transform="translate(420.172,-345.82)">
+			<title>Válvula de macho roscado.803</title>
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Tipo de válvula" v:type="1" v:format="Macho Roscado;Bloqueio;Bobina" v:langID="2070"
+						v:val="VT4(Macho Roscado)"/>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="ValveClass" v:lbl="Classe da Válvula" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="4" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-24" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(24):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(V-24)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="9.81712" cy="847.946" width="48" height="7.20349"/>
+			<path d="M0 827.16 L0 836.98 L19.63 827.16 L19.63 836.98 L0 827.16 Z" class="st3"/>
+			<path d="M0 827.16 L0 836.98 L19.63 827.16 L19.63 836.98 L0 827.16" class="st4"/>
+			<path d="M9.82 832.07 L9.82 822.26" class="st4"/>
+			<path d="M4.91 822.26 L14.73 822.26" class="st4"/>
+		</g>
+		<g id="shape810-24" v:mID="810" v:groupContext="shape" v:layerMember="1" transform="translate(96.1986,-180.125)">
+			<title>Válvula de macho roscado.810</title>
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Tipo de válvula" v:type="1" v:format="Macho Roscado;Bloqueio;Bobina" v:langID="2070"
+						v:val="VT4(Macho Roscado)"/>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="ValveClass" v:lbl="Classe da Válvula" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="4" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-29" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(29):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(V-29)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="9.81712" cy="847.946" width="48" height="7.20349"/>
+			<path d="M0 827.16 L0 836.98 L19.63 827.16 L19.63 836.98 L0 827.16 Z" class="st3"/>
+			<path d="M0 827.16 L0 836.98 L19.63 827.16 L19.63 836.98 L0 827.16" class="st4"/>
+			<path d="M9.82 832.07 L9.82 822.26" class="st4"/>
+			<path d="M4.91 822.26 L14.73 822.26" class="st4"/>
+		</g>
+		<g id="shape812-29" v:mID="812" v:groupContext="shape" v:layerMember="1" transform="translate(326.564,-168.707)">
+			<title>Válvula de macho roscado.812</title>
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Tipo de válvula" v:type="1" v:format="Macho Roscado;Bloqueio;Bobina" v:langID="2070"
+						v:val="VT4(Macho Roscado)"/>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="ValveClass" v:lbl="Classe da Válvula" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="4" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-21" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(21):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(V-21)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="9.81712" cy="847.946" width="48" height="7.20349"/>
+			<path d="M0 827.16 L0 836.98 L19.63 827.16 L19.63 836.98 L0 827.16 Z" class="st3"/>
+			<path d="M0 827.16 L0 836.98 L19.63 827.16 L19.63 836.98 L0 827.16" class="st4"/>
+			<path d="M9.82 832.07 L9.82 822.26" class="st4"/>
+			<path d="M4.91 822.26 L14.73 822.26" class="st4"/>
+		</g>
+		<g id="group813-34" transform="translate(354.432,-331.308)" v:mID="813" v:groupContext="group">
+			<title>Planilha.813</title>
+			<g id="shape814-35" v:mID="814" v:groupContext="shape" v:layerMember="4" transform="translate(0,-4.0604)">
+				<title>Ventilador centrífugo.33</title>
+				<desc>001-BA-02</desc>
+				<v:custProps>
+					<v:cp v:nameU="SubType" v:lbl="Apresentar círculo central" v:type="3" v:langID="2070" v:val="VT0(0):5"/>
+					<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+					<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="1" v:langID="2070"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="2" v:langID="2070"/>
+					<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="3" v:langID="2070"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="SubType" v:val="VT0(1):5"/>
+					<v:ud v:nameU="WatchCHX1" v:val="VT0(0.56692913385827):24"/>
+					<v:ud v:nameU="WatchCHY1" v:val="VT0(0.28346456692913):24"/>
+					<v:ud v:nameU="Int_X" v:val="VT0(0.46766832215274):24"/>
+					<v:ud v:nameU="Int_Y" v:val="VT0(0.28346456692913):24"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+					<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT4(Equipamento)"/>
+					<v:ud v:nameU="PEComponentTag" v:val="VT4(E-0)"/>
+					<v:ud v:nameU="PETagNumber"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="E-0" v:val="VT4(Equipamento)"/>
+					<v:ud v:nameU="PEHideTag"/>
+					<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+					<v:ud v:nameU="CPMSetList" v:prompt="Description,Material,Manufacturer,Model" v:val="VT4(Equipamento)"/>
+					<v:ud v:nameU="WatchCHX1" v:prompt="" v:val="VT0(0.43826441101065):1"/>
+					<v:ud v:nameU="WatchCHY1" v:prompt="" v:val="VT0(0.21147910305631):1"/>
+					<v:ud v:nameU="Int_X" v:prompt="" v:val="VT0(0.36292395171005):1"/>
+					<v:ud v:nameU="Int_Y" v:prompt="" v:val="VT0(0.21147910305631):1"/>
+					<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(E-15)"/>
+					<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="E-15" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="13.5045" cy="852.266" width="64" height="17.6036"/>
+				<path d="M13.15 816.51 A13.2556 13.2556 -180 1 0 26.13 826.66 L31.56 826.66 L31.56 816.51 L13.15 816.51 Z"
+						class="st8"/>
+				<text x="-3.57" y="854.67" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>001-BA-02</text>			</g>
+			<g id="shape815-38" v:mID="815" v:groupContext="shape" transform="translate(23.8416,1683.78) rotate(180)">
+				<title>Planilha.815</title>
+				<path d="M0 841.89 L21.04 841.89" class="st9"/>
+			</g>
+			<g id="shape816-41" v:mID="816" v:groupContext="shape" transform="translate(592.698,1442.6) rotate(136.018)">
+				<title>Planilha.816</title>
+				<path d="M0 841.89 L7.31 841.89" class="st9"/>
+			</g>
+			<g id="shape817-44" v:mID="817" v:groupContext="shape" transform="translate(603.216,231.024) rotate(43.9818)">
+				<title>Planilha.817</title>
+				<path d="M0 841.89 L7.31 841.89" class="st9"/>
+			</g>
+		</g>
+		<g id="group818-47" transform="translate(117.77,-78.7733) scale(-1,1)" v:mID="818" v:groupContext="group">
+			<title>Planilha.818</title>
+			<g id="shape819-48" v:mID="819" v:groupContext="shape" v:layerMember="4" transform="translate(0,-4.0604)">
+				<title>Ventilador centrífugo.33</title>
+				<desc>001-BA-01</desc>
+				<v:custProps>
+					<v:cp v:nameU="SubType" v:lbl="Apresentar círculo central" v:type="3" v:langID="2070" v:val="VT0(0):5"/>
+					<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+					<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="1" v:langID="2070"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="2" v:langID="2070"/>
+					<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="3" v:langID="2070"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="SubType" v:val="VT0(1):5"/>
+					<v:ud v:nameU="WatchCHX1" v:val="VT0(0.56692913385827):24"/>
+					<v:ud v:nameU="WatchCHY1" v:val="VT0(0.28346456692913):24"/>
+					<v:ud v:nameU="Int_X" v:val="VT0(0.46766832215274):24"/>
+					<v:ud v:nameU="Int_Y" v:val="VT0(0.28346456692913):24"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+					<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT4(Equipamento)"/>
+					<v:ud v:nameU="PEComponentTag" v:val="VT4(E-0)"/>
+					<v:ud v:nameU="PETagNumber"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="E-0" v:val="VT4(Equipamento)"/>
+					<v:ud v:nameU="PEHideTag"/>
+					<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+					<v:ud v:nameU="CPMSetList" v:prompt="Description,Material,Manufacturer,Model" v:val="VT4(Equipamento)"/>
+					<v:ud v:nameU="WatchCHX1" v:prompt="" v:val="VT0(0.43826441101065):1"/>
+					<v:ud v:nameU="WatchCHY1" v:prompt="" v:val="VT0(0.21147910305631):1"/>
+					<v:ud v:nameU="Int_X" v:prompt="" v:val="VT0(0.36292395171005):1"/>
+					<v:ud v:nameU="Int_Y" v:prompt="" v:val="VT0(0.21147910305631):1"/>
+					<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(E-17)"/>
+					<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="E-17" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="14.0217" cy="852.356" width="64" height="17.6036"/>
+				<path d="M13.15 816.51 A13.2556 13.2556 -180 1 0 26.13 826.66 L31.56 826.66 L31.56 816.51 L13.15 816.51 Z"
+						class="st10"/>
+				<text x="-31.1" y="854.76" transform="scale(-1,1)" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>001-BA-01</text>			</g>
+			<g id="shape820-51" v:mID="820" v:groupContext="shape" transform="translate(23.8416,1683.78) rotate(180)">
+				<title>Planilha.820</title>
+				<path d="M0 841.89 L21.04 841.89" class="st11"/>
+			</g>
+			<g id="shape821-54" v:mID="821" v:groupContext="shape" transform="translate(592.698,1442.6) rotate(136.018)">
+				<title>Planilha.821</title>
+				<path d="M0 841.89 L7.31 841.89" class="st11"/>
+			</g>
+			<g id="shape822-57" v:mID="822" v:groupContext="shape" transform="translate(603.216,231.024) rotate(43.9818)">
+				<title>Planilha.822</title>
+				<path d="M0 841.89 L7.31 841.89" class="st11"/>
+			</g>
+		</g>
+		<g id="shape823-60" v:mID="823" v:groupContext="shape" v:layerMember="4" transform="translate(490.767,1073.57) scale(1,-1)">
+			<title>Permutador térmico2.823</title>
+			<desc>001-AQ-01</desc>
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Tipo de permutador térmico" v:type="1" v:format="Símbolo padrão;Símbolo alternativo"
+						v:langID="2070" v:val="VT4(Símbolo padrão)"/>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="3" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Equipamento)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(E-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="E-0" v:val="VT4(Equipamento)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,Material,Manufacturer,Model" v:val="VT4(Equipamento)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(E-19)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(19):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="E-19" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="11.5323" cy="813.35" width="64" height="17.6036"/>
+			<path d="M0 830.17 A11.7189 11.7189 0 0 1 23.44 830.17 A11.7189 11.7189 0 1 1 0 830.17 Z" class="st3"/>
+			<path d="M23.44 824.31 L5.86 824.31 L17.58 830.17 L5.86 836.03 L23.44 836.03" class="st11"/>
+			<path d="M0 830.17 A11.7189 11.7189 0 0 1 23.44 830.17 A11.7189 11.7189 0 1 1 0 830.17" class="st11"/>
+			<text x="-6.06" y="-810.95" transform="scale(1,-1)" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>001-AQ-01</text>		</g>
+		<g id="shape824-65" v:mID="824" v:groupContext="shape" v:layerMember="2" transform="translate(303.4,-527.33)">
+			<title>Conexão Dinâmica.824</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-181)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(181):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-181" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="57.6" cy="765.512" width="96.01" height="14.4037"/>
+			<path d="M0 836.65 L0 836.29 L0 774.15 L57.73 774.15" class="st12"/>
+		</g>
+		<g id="shape828-71" v:mID="828" v:groupContext="shape" v:layerMember="2" transform="translate(369.638,-587.698)">
+			<title>Conexão Dinâmica.828</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-140)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(140):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-140" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="100.12" cy="826.085" width="96.01" height="14.4037"/>
+			<path d="M6.96 834.85 L7.32 834.85 L42.52 834.73" class="st13"/>
+		</g>
+		<g id="shape829-77" v:mID="829" v:groupContext="shape" v:layerMember="2" transform="translate(296.455,-495.775)">
+			<title>Conexão Dinâmica.829</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-155)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(155):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-155" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.8285" cy="896.631" width="96.01" height="14.4037"/>
+			<path d="M6.94 841.89 L7.2 899.67" class="st1"/>
+		</g>
+		<g id="shape830-82" v:mID="830" v:groupContext="shape" v:layerMember="2" transform="translate(145.293,-520.923)">
+			<title>Conexão Dinâmica.830</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-139)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(139):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-139" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="125.306" cy="826.13" width="96.01" height="14.4037"/>
+			<path d="M0 834.83 L62.11 834.78" class="st1"/>
+		</g>
+		<g id="shape831-87" v:mID="831" v:groupContext="shape" v:layerMember="2" transform="translate(273.474,-432.564)">
+			<title>Conexão Dinâmica.831</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-147)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(147):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-147" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="57.6" cy="737.878" width="96.01" height="14.4037"/>
+			<path d="M0 836.65 L0 836.29 L0 746.52 L-51.97 746.52" class="st15"/>
+		</g>
+		<g id="shape832-92" v:mID="832" v:groupContext="shape" v:layerMember="2" transform="translate(331.808,-340.952)">
+			<title>Conexão Dinâmica.832</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-180)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(180):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-180" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="66.1039" cy="826.179" width="96.01" height="14.4037"/>
+			<path d="M0 834.82 L8.5 834.82 L8.5 834.79 L17.02 834.79" class="st16"/>
+		</g>
+		<g id="shape833-97" v:mID="833" v:groupContext="shape" v:layerMember="2" transform="translate(439.806,-355.637)">
+			<title>Conexão Dinâmica.833</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-187)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(187):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-187" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="66.1039" cy="833.248" width="96.01" height="14.4037"/>
+			<path d="M0 841.89 L8.5 841.89 L8.5 741.15 L-117.22 741.15 L-117.22 759.64" class="st16"/>
+		</g>
+		<g id="shape834-102" v:mID="834" v:groupContext="shape" v:layerMember="2" transform="translate(340.157,-224.455)">
+			<title>Conexão Dinâmica.834</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-138)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(138):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-138" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="118.408" cy="833.248" width="96.01" height="14.4037"/>
+			<path d="M0 841.89 L60.81 841.89 L60.81 710.71 L80.01 710.71" class="st9"/>
+		</g>
+		<g id="shape835-105" v:mID="835" v:groupContext="shape" v:layerMember="2" transform="translate(282.052,-217.422)">
+			<title>Conexão Dinâmica.835</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-178)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(178):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-178" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="107.202" cy="826.215" width="96.01" height="14.4037"/>
+			<path d="M5.24 834.86 L5.6 834.86 L49.6 834.86 L49.6 834.75" class="st12"/>
+		</g>
+		<g id="shape836-110" v:mID="836" v:groupContext="shape" v:layerMember="2" transform="translate(250.497,-224.455)">
+			<title>Conexão Dinâmica.836</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-153)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(153):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-153" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="29.6469" cy="833.248" width="96.01" height="14.4037"/>
+			<path d="M0 841.89 L-27.95 841.89 L-27.95 899.17" class="st16"/>
+		</g>
+		<g id="shape837-115" v:mID="837" v:groupContext="shape" v:layerMember="2" transform="translate(301.606,-161.575)">
+			<title>Conexão Dinâmica.837</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-152)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(152):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-152" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="57.6" cy="816.298" width="96.01" height="14.4037"/>
+			<path d="M0 836.65 L0 836.29 L0 824.94 L24.96 824.94" class="st12"/>
+		</g>
+		<g id="shape838-120" v:mID="838" v:groupContext="shape" v:layerMember="2" transform="translate(346.198,-172.156)">
+			<title>Conexão Dinâmica.838</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-148)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(148):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-148" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.389" cy="826.178" width="96.01" height="14.4037"/>
+			<path d="M5.24 834.82 L5.6 834.82 L25.79 834.82 L25.79 834.79" class="st12"/>
+		</g>
+		<g id="shape839-125" v:mID="839" v:groupContext="shape" v:layerMember="2" transform="translate(115.833,-189.942)">
+			<title>Conexão Dinâmica.839</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-141)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(141):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-141" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="90.959" cy="833.248" width="96.01" height="14.4037"/>
+			<path d="M0 841.89 L33.36 841.89 L33.36 864.66" class="st1"/>
+		</g>
+		<g id="shape840-130" v:mID="840" v:groupContext="shape" v:layerMember="2" transform="translate(86.9026,-103.136)">
+			<title>Conexão Dinâmica.840</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-167)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(167):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-167" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.1147" cy="833.248" width="96.01" height="14.4037"/>
+			<path d="M-0.69 841.89 L-13.49 841.89 L-13.49 755.08" class="st9"/>
+		</g>
+		<g id="shape841-133" v:mID="841" v:groupContext="shape" v:layerMember="2" transform="translate(113.738,-741.15)">
+			<title>Conexão Dinâmica.841</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-161)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(161):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-161" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.2797" cy="833.248" width="96.01" height="14.4037"/>
+			<path d="M-5.24 841.89 L-5.6 841.89 L-40.32 841.89 L-40.32 1057.15" class="st12"/>
+		</g>
+		<g id="shape842-138" v:mID="842" v:groupContext="shape" transform="translate(371.305,-169.304)">
+			<title>Planilha.842</title>
+			<desc>Fornecimento de água</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="26.515" cy="832.493" width="53.03" height="18.7943"/>
+			<rect x="0" y="823.095" width="53.03" height="18.7943" class="st17"/>
+			<text x="4" y="830.69" class="st18" v:langID="1046"><v:paragraph/><v:tabList/>Fornecimento de <tspan x="4" dy="1.2em"
+						class="st19">água</tspan></text>		</g>
+		<g id="shape843-142" v:mID="843" v:groupContext="shape" v:layerMember="2" transform="translate(66.3307,-532.976)">
+			<title>Conexão Dinâmica.843</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-161)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(161):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-161" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.6866" cy="840.334" width="96.01" height="14.4037"/>
+			<path d="M7.09 848.98 L7.09 848.98" class="st4"/>
+		</g>
+		<g id="shape844-145" v:mID="844" v:groupContext="shape" v:layerMember="4" transform="translate(134.977,-82.3411)">
+			<title>Depósito fechado.844</title>
+			<desc>001-TQ-03</desc>
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Tipo de tecto do depósito fechado" v:type="1"
+						v:format="Tecto plano;Tecto pontiagudo" v:langID="2070" v:val="VT4(Tecto plano)"/>
+				<v:cp v:nameU="SubType2" v:lbl="Mostrar reservatório de depósito fechado" v:type="3" v:langID="2070"
+						v:val="VT0(0):26"/>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="3" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SubType2" v:val="VT0(0):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Equipamento)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(E-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="E-0" v:val="VT4(Equipamento)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,Material,Manufacturer,Model" v:val="VT4(Equipamento)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(E-18)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(18):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="E-18" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="87.8258" cy="847.695" width="64" height="17.6036"/>
+			<path d="M0 841.89 L131.35 841.89 L145.94 841.89 L175.13 841.89 L175.13 762.66 L87.57 762.66 L0 762.66 L0 841.89 Z"
+					class="st6"/>
+			<text x="70.6" y="850.1" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>001-TQ-03</text>		</g>
+		<g id="shape848-148" v:mID="848" v:groupContext="shape" v:layerMember="2" transform="translate(212.031,-734.063)">
+			<title>Conexão Dinâmica.848</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-149)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(149):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-149" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-9.13881" cy="826.161" width="96.01" height="14.4037"/>
+			<path d="M-5.24 834.8 L-5.6 834.8 L-66.74 834.8" class="st15"/>
+		</g>
+		<g id="shape849-153" v:mID="849" v:groupContext="shape" v:layerMember="2" transform="translate(221.502,-741.15)">
+			<title>Conexão Dinâmica.849</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-163)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(163):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-163" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="320.716" cy="833.248" width="96.01" height="14.4037"/>
+			<path d="M0 841.89 L263.12 841.89 L263.12 878.98" class="st1"/>
+		</g>
+		<g id="shape853-158" v:mID="853" v:groupContext="shape" v:layerMember="1" transform="translate(235.419,-389.994)">
+			<title>Válvula de macho roscado.853</title>
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Tipo de válvula" v:type="1" v:format="Macho Roscado;Bloqueio;Bobina" v:langID="2070"
+						v:val="VT4(Macho Roscado)"/>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="ValveClass" v:lbl="Classe da Válvula" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="4" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-22" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(22):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(V-22)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.58186" cy="847.387" width="48" height="7.20349"/>
+			<path d="M0 830.52 L0 838.1 L15.16 830.52 L15.16 838.1 L0 830.52 Z" class="st3"/>
+			<path d="M0 830.52 L0 838.1 L15.16 830.52 L15.16 838.1 L0 830.52" class="st7"/>
+			<path d="M7.58 834.31 L7.58 826.73" class="st7"/>
+			<path d="M3.79 826.73 L11.37 826.73" class="st7"/>
+		</g>
+		<g id="shape854-163" v:mID="854" v:groupContext="shape" v:layerMember="1" transform="translate(235.419,-376.156)">
+			<title>Válvula de macho roscado.854</title>
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Tipo de válvula" v:type="1" v:format="Macho Roscado;Bloqueio;Bobina" v:langID="2070"
+						v:val="VT4(Macho Roscado)"/>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="ValveClass" v:lbl="Classe da Válvula" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="4" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-23" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(23):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(V-23)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.58186" cy="847.387" width="48" height="7.20349"/>
+			<path d="M0 830.52 L0 838.1 L15.16 830.52 L15.16 838.1 L0 830.52 Z" class="st3"/>
+			<path d="M0 830.52 L0 838.1 L15.16 830.52 L15.16 838.1 L0 830.52" class="st7"/>
+			<path d="M7.58 834.31 L7.58 826.73" class="st7"/>
+			<path d="M3.79 826.73 L11.37 826.73" class="st7"/>
+		</g>
+		<g id="shape855-168" v:mID="855" v:groupContext="shape" v:layerMember="1" transform="translate(235.419,-363.227)">
+			<title>Válvula de macho roscado.855</title>
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Tipo de válvula" v:type="1" v:format="Macho Roscado;Bloqueio;Bobina" v:langID="2070"
+						v:val="VT4(Macho Roscado)"/>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="ValveClass" v:lbl="Classe da Válvula" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="4" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-20" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(20):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(V-20)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.58186" cy="847.387" width="48" height="7.20349"/>
+			<path d="M0 830.52 L0 838.1 L15.16 830.52 L15.16 838.1 L0 830.52 Z" class="st3"/>
+			<path d="M0 830.52 L0 838.1 L15.16 830.52 L15.16 838.1 L0 830.52" class="st7"/>
+			<path d="M7.58 834.31 L7.58 826.73" class="st7"/>
+			<path d="M3.79 826.73 L11.37 826.73" class="st7"/>
+		</g>
+		<g id="shape858-173" v:mID="858" v:groupContext="shape" v:layerMember="2" transform="translate(250.583,-403.439)">
+			<title>Conexão Dinâmica.858</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-160)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(160):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-160" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="71.8581" cy="826.182" width="96.01" height="14.4037"/>
+			<path d="M0 834.82 L14.26 834.82 L14.26 834.78" class="st9"/>
+		</g>
+		<g id="shape859-176" v:mID="859" v:groupContext="shape" v:layerMember="2" transform="translate(250.583,-376.69)">
+			<title>Conexão Dinâmica.859</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-192)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(192):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-192" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="71.8581" cy="826.2" width="96.01" height="14.4037"/>
+			<path d="M0 834.84 L14.26 834.84 L14.26 834.76" class="st9"/>
+		</g>
+		<g id="shape860-179" v:mID="860" v:groupContext="shape" v:layerMember="2" transform="translate(250.583,-404.634)">
+			<title>Conexão Dinâmica.860</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-166)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(166):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-166" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="71.8581" cy="840.306" width="96.01" height="14.4037"/>
+			<path d="M0 848.95 L14.26 848.95 L14.26 849" class="st9"/>
+		</g>
+		<g id="shape861-182" v:mID="861" v:groupContext="shape" v:layerMember="2" transform="translate(250.583,-377.885)">
+			<title>Conexão Dinâmica.861</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-179)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(179):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-179" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="71.8581" cy="840.324" width="96.01" height="14.4037"/>
+			<path d="M0 848.97 L14.26 848.97 L14.26 848.99" class="st9"/>
+		</g>
+		<g id="shape862-185" v:mID="862" v:groupContext="shape" v:layerMember="2" transform="translate(117.77,-88.448)">
+			<title>Conexão Dinâmica.862</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-145)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(145):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-145" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="66.1039" cy="826.173" width="96.01" height="14.4037"/>
+			<path d="M5.24 834.82 L5.6 834.82 L8.5 834.82 L8.5 834.79 L17.21 834.79" class="st12"/>
+		</g>
+		<g id="shape931-190" v:mID="931" v:groupContext="shape" v:layerMember="2" transform="translate(385.988,-362.74)">
+			<title>Conexão Dinâmica.931</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-185)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(185):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-185" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.8448" cy="840.318" width="96.01" height="14.4037"/>
+			<path d="M0 848.96 L3.24 848.96 L3.24 848.99 L28.58 848.99" class="st1"/>
+		</g>
+		<g id="shape957-195" v:mID="957" v:groupContext="shape" v:layerMember="2" transform="translate(257.754,-342.406)">
+			<title>Conexão Dinâmica.957</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-182)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(182):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-182" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.6866" cy="826.161" width="96.01" height="14.4037"/>
+		</g>
+		<g id="shape966-196" v:mID="966" v:groupContext="shape" v:layerMember="2" transform="translate(235.419,-411.193)">
+			<title>Conexão Dinâmica.966</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-168)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(168):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-168" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.6132" cy="833.936" width="96.01" height="14.4037"/>
+			<path d="M0 842.58 L-35.99 842.58 L-35.99 855.37" class="st9"/>
+		</g>
+		<g id="shape968-199" v:mID="968" v:groupContext="shape" v:layerMember="2" transform="translate(235.419,-390.555)">
+			<title>Conexão Dinâmica.968</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-136)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(136):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-136" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.6132" cy="826.095" width="96.01" height="14.4037"/>
+			<path d="M0 834.87 L-35.99 834.74" class="st9"/>
+		</g>
+		<g id="shape970-202" v:mID="970" v:groupContext="shape" v:layerMember="2" transform="translate(192.346,-397.708)">
+			<title>Conexão Dinâmica.970</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-168)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(168):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-168" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.6866" cy="860.146" width="96.01" height="14.4037"/>
+			<path d="M7.09 841.89 L7.09 868.79" class="st9"/>
+		</g>
+		<g id="shape971-205" v:mID="971" v:groupContext="shape" v:layerMember="2" transform="translate(235.419,-363.722)">
+			<title>Conexão Dinâmica.971</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-183)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(183):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-183" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.6132" cy="826.161" width="96.01" height="14.4037"/>
+			<path d="M0 834.8 L-35.99 834.8" class="st9"/>
+		</g>
+		<g id="shape976-208" v:mID="976" v:groupContext="shape" v:layerMember="2" transform="translate(73.4173,-519.848)">
+			<title>Conexão Dinâmica.976</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-190)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(190):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-190" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="57.6" cy="825.116" width="96.01" height="14.4037"/>
+			<path d="M0 835.85 L0 833.76 L34.72 833.76" class="st16"/>
+		</g>
+		<g id="shape977-213" v:mID="977" v:groupContext="shape" v:layerMember="2" transform="translate(72,-524.472)">
+			<title>Junção.977</title>
+			<v:userDefs>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass"/>
+				<v:ud v:nameU="PEComponentTag"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList"/>
+				<v:ud v:nameU="PELayout" v:prompt="" v:val="VT0(63):26"/>
+			</v:userDefs>
+		</g>
+		<g id="shape978-215" v:mID="978" v:groupContext="shape" v:layerMember="2" transform="translate(66.3307,-525.89)">
+			<title>Conexão Dinâmica.978</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-161)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(161):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-161" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.6866" cy="997.329" width="96.01" height="14.4037"/>
+			<path d="M7.09 841.89 L7.09 1005.97 L7.09 1177.84" class="st11"/>
+		</g>
+		<g id="shape979-218" v:mID="979" v:groupContext="shape" v:layerMember="2" transform="translate(72,-188.524)">
+			<title>Junção.979</title>
+			<v:userDefs>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass"/>
+				<v:ud v:nameU="PEComponentTag"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList"/>
+				<v:ud v:nameU="PELayout" v:prompt="" v:val="VT0(63):26"/>
+			</v:userDefs>
+		</g>
+		<g id="shape980-220" v:mID="980" v:groupContext="shape" v:layerMember="2" transform="translate(73.4173,-197.028)">
+			<title>Conexão Dinâmica.980</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-177)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(177):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-177" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="80.3813" cy="840.334" width="96.01" height="14.4037"/>
+			<path d="M0 848.98 L22.78 848.98" class="st9"/>
+		</g>
+		<g id="shape1100-223" v:mID="1100" v:groupContext="shape" v:layerMember="2" transform="translate(199.432,-376.644)">
+			<title>Conexão Dinâmica.1100</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-195)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(195):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-195" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="57.6" cy="826.154" width="96.01" height="14.4037"/>
+			<path d="M0 834.81 L0 834.8 L35.99 834.8" class="st9"/>
+		</g>
+		<g id="shape1105-226" v:mID="1105" v:groupContext="shape" transform="translate(269.643,-432.599) rotate(0.326803)">
+			<title>Planilha.1105</title>
+			<path d="M0 841.89 L57.74 841.89" class="st20"/>
+		</g>
+		<g id="group1287-229" transform="translate(212.999,-518.214)" v:mID="1287" v:groupContext="group">
+			<title>Planilha.1287</title>
+			<g id="shape1283-230" v:mID="1283" v:groupContext="shape" transform="translate(841.89,821.751) rotate(90)">
+				<title>Planilha.1283</title>
+				<path d="M0 841.89 L20.14 841.89" class="st4"/>
+			</g>
+			<g id="shape1284-233" v:mID="1284" v:groupContext="shape" transform="translate(850.394,821.751) rotate(90)">
+				<title>Planilha.1284</title>
+				<path d="M0 841.89 L20.14 841.89" class="st4"/>
+			</g>
+			<g id="shape1285-236" v:mID="1285" v:groupContext="shape" transform="translate(846.256,821.751) rotate(90)">
+				<title>Planilha.1285</title>
+				<path d="M0 841.89 L6.94 841.89" class="st4"/>
+			</g>
+			<g id="shape1286-239" v:mID="1286" v:groupContext="shape" transform="translate(846.256,834.953) rotate(90)">
+				<title>Planilha.1286</title>
+				<path d="M0 841.89 L6.94 841.89" class="st4"/>
+			</g>
+		</g>
+		<g id="group1288-242" transform="translate(361.134,-584.792)" v:mID="1288" v:groupContext="group">
+			<title>Planilha.1288</title>
+			<g id="shape1289-243" v:mID="1289" v:groupContext="shape" transform="translate(841.89,821.751) rotate(90)">
+				<title>Planilha.1289</title>
+				<path d="M0 841.89 L20.14 841.89" class="st4"/>
+			</g>
+			<g id="shape1290-246" v:mID="1290" v:groupContext="shape" transform="translate(850.394,821.751) rotate(90)">
+				<title>Planilha.1290</title>
+				<path d="M0 841.89 L20.14 841.89" class="st4"/>
+			</g>
+			<g id="shape1291-249" v:mID="1291" v:groupContext="shape" transform="translate(846.256,821.751) rotate(90)">
+				<title>Planilha.1291</title>
+				<path d="M0 841.89 L6.94 841.89" class="st4"/>
+			</g>
+			<g id="shape1292-252" v:mID="1292" v:groupContext="shape" transform="translate(846.256,834.953) rotate(90)">
+				<title>Planilha.1292</title>
+				<path d="M0 841.89 L6.94 841.89" class="st4"/>
+			</g>
+		</g>
+		<g id="group1293-255" transform="translate(212.999,-731.431)" v:mID="1293" v:groupContext="group">
+			<title>Planilha.1293</title>
+			<g id="shape1294-256" v:mID="1294" v:groupContext="shape" transform="translate(841.89,821.751) rotate(90)">
+				<title>Planilha.1294</title>
+				<path d="M0 841.89 L20.14 841.89" class="st4"/>
+			</g>
+			<g id="shape1295-259" v:mID="1295" v:groupContext="shape" transform="translate(850.394,821.751) rotate(90)">
+				<title>Planilha.1295</title>
+				<path d="M0 841.89 L20.14 841.89" class="st4"/>
+			</g>
+			<g id="shape1296-262" v:mID="1296" v:groupContext="shape" transform="translate(846.256,821.751) rotate(90)">
+				<title>Planilha.1296</title>
+				<path d="M0 841.89 L6.94 841.89" class="st4"/>
+			</g>
+			<g id="shape1297-265" v:mID="1297" v:groupContext="shape" transform="translate(846.256,834.953) rotate(90)">
+				<title>Planilha.1297</title>
+				<path d="M0 841.89 L6.94 841.89" class="st4"/>
+			</g>
+		</g>
+		<g id="group1324-268" transform="translate(331.654,-214.736)" v:mID="1324" v:groupContext="group">
+			<title>Planilha.1324</title>
+			<g id="shape1325-269" v:mID="1325" v:groupContext="shape" transform="translate(841.89,821.751) rotate(90)">
+				<title>Planilha.1325</title>
+				<path d="M0 841.89 L20.14 841.89" class="st4"/>
+			</g>
+			<g id="shape1326-272" v:mID="1326" v:groupContext="shape" transform="translate(850.394,821.751) rotate(90)">
+				<title>Planilha.1326</title>
+				<path d="M0 841.89 L20.14 841.89" class="st4"/>
+			</g>
+			<g id="shape1327-275" v:mID="1327" v:groupContext="shape" transform="translate(846.256,821.751) rotate(90)">
+				<title>Planilha.1327</title>
+				<path d="M0 841.89 L6.94 841.89" class="st4"/>
+			</g>
+			<g id="shape1328-278" v:mID="1328" v:groupContext="shape" transform="translate(846.256,834.953) rotate(90)">
+				<title>Planilha.1328</title>
+				<path d="M0 841.89 L6.94 841.89" class="st4"/>
+			</g>
+		</g>
+		<g id="shape1340-281" v:mID="1340" v:groupContext="shape" transform="translate(467.395,-574.522) scale(-1,1)">
+			<title>Planilha.1340</title>
+			<desc>TAQ</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="11.0551" cy="834.595" width="22.12" height="14.5888"/>
+			<rect x="0" y="827.301" width="22.1102" height="14.5888" class="st17"/>
+			<text x="-18.01" y="837" transform="scale(-1,1)" class="st5" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>TAQ</text>		</g>
+		<g id="shape1341-284" v:mID="1341" v:groupContext="shape" transform="translate(281.764,-331.103) scale(-1,1)">
+			<title>Planilha.1341</title>
+			<desc>TP</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="8.4615" cy="834.595" width="16.93" height="14.5888"/>
+			<rect x="0" y="827.301" width="16.923" height="14.5888" class="st17"/>
+			<text x="-12.48" y="837" transform="scale(-1,1)" class="st5" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>TP</text>		</g>
+		<g id="shape1342-287" v:mID="1342" v:groupContext="shape" v:layerMember="1" transform="translate(412.157,-587.279)">
+			<title>Válvula de macho roscado.1342</title>
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="Tipo de válvula" v:type="1" v:format="Macho Roscado;Bloqueio;Bobina" v:langID="2070"
+						v:val="VT4(Macho Roscado)"/>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="ValveClass" v:lbl="Classe da Válvula" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="4" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(Válvula)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-35" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(35):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(V-35)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.58186" cy="847.387" width="48" height="7.20349"/>
+			<path d="M0 830.52 L0 838.1 L15.16 830.52 L15.16 838.1 L0 830.52 Z" class="st3"/>
+			<path d="M0 830.52 L0 838.1 L15.16 830.52 L15.16 838.1 L0 830.52" class="st7"/>
+			<path d="M7.58 834.31 L7.58 826.73" class="st7"/>
+			<path d="M3.79 826.73 L11.37 826.73" class="st7"/>
+		</g>
+		<g id="shape1343-292" v:mID="1343" v:groupContext="shape" v:layerMember="2" transform="translate(427.321,-601.933)">
+			<title>Conexão Dinâmica.1343</title>
+			<v:custProps>
+				<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="2070"/>
+				<v:cp v:nameU="LineSize" v:lbl="Tamanho da Linha" v:type="0" v:sortKey="1" v:langID="2070"/>
+				<v:cp v:nameU="Schedule" v:lbl="Agenda" v:type="0" v:sortKey="2" v:langID="2070"/>
+				<v:cp v:nameU="Material" v:lbl="Material" v:type="0" v:sortKey="3" v:langID="2070"/>
+				<v:cp v:nameU="DesignPressure" v:lbl="Pressão Prevista" v:type="0" v:sortKey="4" v:langID="2070"/>
+				<v:cp v:nameU="DesignTemperature" v:lbl="Temperatura Prevista" v:type="0" v:sortKey="5" v:langID="2070"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visKeywords"
+						v:val="VT4(Major,Pipeline,connector,automatically,routes,between,connects,Pipelines,ID,piping,instrumentation,design,process,plant)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(Pipelines)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(P-0)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-0" v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,Schedule,Material,DesignPressure,DesignTemperature"
+						v:val="VT4(Pipeline)"/>
+				<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(P-196)"/>
+				<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(196):26"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="P-196" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="66.1039" cy="840.32" width="96.01" height="14.4037"/>
+			<path d="M6.96 848.96 L7.32 848.96 L8.5 848.96 L8.5 848.99 L17.96 848.99" class="st13"/>
+		</g>
+		<g id="shape1344-297" v:mID="1344" v:groupContext="shape" transform="translate(292.237,-432.47) rotate(0.326803)">
+			<title>Planilha.1344</title>
+			<path d="M0 841.89 L57.74 841.89" class="st20"/>
+		</g>
+		<g id="group1382-300" transform="translate(237.185,-192.918)" v:mID="1382" v:groupContext="group">
+			<title>Planilha.1382</title>
+			<g id="group1365-301" transform="translate(1.11067,0)" v:mID="1365" v:groupContext="group" v:layerMember="3">
+				<v:custProps>
+					<v:cp v:nameU="SubType" v:lbl="Tipo de instrumento" v:type="0" v:langID="1046" v:val="VT4()"/>
+					<v:cp v:nameU="SubType2" v:lbl="Local/remoto" v:type="1" v:format="Local;Remoto;Auxiliar" v:langID="1046"
+							v:val="VT4(Remoto)"/>
+					<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="1046"/>
+					<v:cp v:nameU="ConnectionSize" v:lbl="Tamanho da Conexão" v:type="0" v:sortKey="1" v:langID="1046"/>
+					<v:cp v:nameU="Service" v:lbl="Serviço" v:type="0" v:sortKey="2" v:langID="1046"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="3" v:langID="1046"/>
+					<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="4" v:langID="1046"/>
+					<v:cp v:nameU="SubType2" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(Local)"/>
+					<v:cp v:nameU="Description" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(1)"/>
+					<v:cp v:nameU="ConnectionSize" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(2)"/>
+					<v:cp v:nameU="Service" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(3)"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(4)"/>
+					<v:cp v:nameU="Model" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(5)"/>
+					<v:cp v:nameU="103" v:lbl="Tipo de instrumento" v:type="0" v:langID="1046" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="SubType" v:val="VT4()"/>
+					<v:ud v:nameU="SubType2" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SetWidth" v:val="VT0(0):26"/>
+					<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="ResizeWithText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT4(Instrumento)"/>
+					<v:ud v:nameU="PEComponentTag" v:val="VT4(I-0)"/>
+					<v:ud v:nameU="PETagNumber"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="I-0" v:val="VT4(Instrumento)"/>
+					<v:ud v:nameU="PEHideTag"/>
+					<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+					<v:ud v:nameU="CPMSetList" v:prompt="Description,ConnectionSize,Service,Manufacturer,Model"
+							v:val="VT4(Instrumento)"/>
+					<v:ud v:nameU="SubType" v:prompt="" v:val="VT4()"/>
+					<v:ud v:nameU="SubType2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(I-98)"/>
+					<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(98):26"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="I-98" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEPageHideTags" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<title>Indicador 2</title>
+				<g id="shape1366-302" v:mID="1366" v:groupContext="shape" transform="translate(-641.216,298.285) rotate(-50.6536)">
+					<title>Planilha.1366</title>
+					<path d="M0 841.89 L28.06 841.89" class="st21"/>
+				</g>
+				<g id="shape1367-305" v:mID="1367" v:groupContext="shape" v:layerMember="3">
+					<title>Planilha.1367</title>
+					<v:userDefs>
+						<v:ud v:nameU="SubType2" v:val="VT0(1):26"/>
+						<v:ud v:nameU="XOffset" v:val="VT0(0.11811023622047):1"/>
+						<v:ud v:nameU="YOffset" v:val="VT0(0):1"/>
+						<v:ud v:nameU="SubType2" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="XOffset" v:prompt="" v:val="VT0(0.136670984746):1"/>
+					</v:userDefs>
+					<path d="M9.84 841.89 A9.84031 9.84031 -180 0 0 9.84 822.21 A9.84031 9.84031 -180 1 0 9.84 841.89 Z"
+							class="st22"/>
+				</g>
+				<g id="shape1368-307" v:mID="1368" v:groupContext="shape" v:layerMember="3" transform="translate(3.84031,-11.1587)">
+					<title>Planilha.1368</title>
+					<v:userDefs>
+						<v:ud v:nameU="SubType" v:val="VT4()"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6" cy="838.288" width="12.01" height="7.20349"/>
+				</g>
+			</g>
+			<g id="shape1376-308" v:mID="1376" v:groupContext="shape" transform="translate(0,-0.91326)">
+				<title>Planilha.1376</title>
+				<desc>FV 203</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="10.951" cy="832.963" width="21.91" height="17.8541"/>
+				<rect x="0" y="824.036" width="21.902" height="17.8541" class="st17"/>
+				<text x="7.36" y="830.86" class="st23" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>FV<v:newlineChar/><tspan
+							x="5.63" dy="1.2em" class="st19">203</tspan></text>			</g>
+		</g>
+		<g id="group1383-312" transform="translate(129.501,-495.111)" v:mID="1383" v:groupContext="group">
+			<title>Planilha.1383</title>
+			<g id="group1384-313" transform="translate(3.30762,-1.97413)" v:mID="1384" v:groupContext="group" v:layerMember="3">
+				<v:custProps>
+					<v:cp v:nameU="SubType" v:lbl="Tipo de instrumento" v:type="0" v:langID="1046" v:val="VT4()"/>
+					<v:cp v:nameU="SubType2" v:lbl="Local/remoto" v:type="1" v:format="Local;Remoto;Auxiliar" v:langID="1046"
+							v:val="VT4(Remoto)"/>
+					<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="1046"/>
+					<v:cp v:nameU="ConnectionSize" v:lbl="Tamanho da Conexão" v:type="0" v:sortKey="1" v:langID="1046"/>
+					<v:cp v:nameU="Service" v:lbl="Serviço" v:type="0" v:sortKey="2" v:langID="1046"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="3" v:langID="1046"/>
+					<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="4" v:langID="1046"/>
+					<v:cp v:nameU="SubType2" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(Local)"/>
+					<v:cp v:nameU="Description" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(1)"/>
+					<v:cp v:nameU="ConnectionSize" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(2)"/>
+					<v:cp v:nameU="Service" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(3)"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(4)"/>
+					<v:cp v:nameU="Model" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(5)"/>
+					<v:cp v:nameU="103" v:lbl="Tipo de instrumento" v:type="0" v:langID="1046" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="SubType" v:val="VT4()"/>
+					<v:ud v:nameU="SubType2" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SetWidth" v:val="VT0(0):26"/>
+					<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="ResizeWithText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT4(Instrumento)"/>
+					<v:ud v:nameU="PEComponentTag" v:val="VT4(I-0)"/>
+					<v:ud v:nameU="PETagNumber"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="I-0" v:val="VT4(Instrumento)"/>
+					<v:ud v:nameU="PEHideTag"/>
+					<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+					<v:ud v:nameU="CPMSetList" v:prompt="Description,ConnectionSize,Service,Manufacturer,Model"
+							v:val="VT4(Instrumento)"/>
+					<v:ud v:nameU="SubType" v:prompt="" v:val="VT4()"/>
+					<v:ud v:nameU="SubType2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(I-99)"/>
+					<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(99):26"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="I-99" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEPageHideTags" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<title>Indicador 2</title>
+				<g id="shape1385-314" v:mID="1385" v:groupContext="shape" transform="translate(-699.095,1286.13) rotate(-122.64)">
+					<title>Planilha.1385</title>
+					<path d="M0 841.89 L25 841.89" class="st21"/>
+				</g>
+				<g id="shape1386-317" v:mID="1386" v:groupContext="shape" v:layerMember="3">
+					<title>Planilha.1386</title>
+					<v:userDefs>
+						<v:ud v:nameU="SubType2" v:val="VT0(1):26"/>
+						<v:ud v:nameU="XOffset" v:val="VT0(0.11811023622047):1"/>
+						<v:ud v:nameU="YOffset" v:val="VT0(0):1"/>
+						<v:ud v:nameU="SubType2" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="XOffset" v:prompt="" v:val="VT0(0.136670984746):1"/>
+					</v:userDefs>
+					<path d="M9.84 841.89 A9.84031 9.84031 -180 0 0 9.84 822.21 A9.84031 9.84031 -180 1 0 9.84 841.89 Z"
+							class="st22"/>
+				</g>
+				<g id="shape1387-319" v:mID="1387" v:groupContext="shape" v:layerMember="3" transform="translate(3.84031,-11.1587)">
+					<title>Planilha.1387</title>
+					<v:userDefs>
+						<v:ud v:nameU="SubType" v:val="VT4()"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6" cy="838.288" width="12.01" height="7.20349"/>
+				</g>
+			</g>
+			<g id="shape1388-320" v:mID="1388" v:groupContext="shape" transform="translate(0,-1.09648)">
+				<title>Planilha.1388</title>
+				<desc>LV 201</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="13.1479" cy="831.172" width="26.3" height="21.4359"/>
+				<rect x="0" y="820.454" width="26.2959" height="21.4359" class="st17"/>
+				<text x="9.69" y="829.07" class="st23" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>LV<v:newlineChar/><tspan
+							x="7.83" dy="1.2em" class="st19">201</tspan></text>			</g>
+		</g>
+		<g id="group1389-324" transform="translate(313.97,-524.488)" v:mID="1389" v:groupContext="group">
+			<title>Planilha.1389</title>
+			<g id="group1390-325" transform="translate(3.30762,-1.97413)" v:mID="1390" v:groupContext="group" v:layerMember="3">
+				<v:custProps>
+					<v:cp v:nameU="SubType" v:lbl="Tipo de instrumento" v:type="0" v:langID="1046" v:val="VT4()"/>
+					<v:cp v:nameU="SubType2" v:lbl="Local/remoto" v:type="1" v:format="Local;Remoto;Auxiliar" v:langID="1046"
+							v:val="VT4(Remoto)"/>
+					<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="1046"/>
+					<v:cp v:nameU="ConnectionSize" v:lbl="Tamanho da Conexão" v:type="0" v:sortKey="1" v:langID="1046"/>
+					<v:cp v:nameU="Service" v:lbl="Serviço" v:type="0" v:sortKey="2" v:langID="1046"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="3" v:langID="1046"/>
+					<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="4" v:langID="1046"/>
+					<v:cp v:nameU="SubType2" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(Local)"/>
+					<v:cp v:nameU="Description" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(1)"/>
+					<v:cp v:nameU="ConnectionSize" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(2)"/>
+					<v:cp v:nameU="Service" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(3)"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(4)"/>
+					<v:cp v:nameU="Model" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(5)"/>
+					<v:cp v:nameU="103" v:lbl="Tipo de instrumento" v:type="0" v:langID="1046" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="SubType" v:val="VT4()"/>
+					<v:ud v:nameU="SubType2" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SetWidth" v:val="VT0(0):26"/>
+					<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="ResizeWithText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT4(Instrumento)"/>
+					<v:ud v:nameU="PEComponentTag" v:val="VT4(I-0)"/>
+					<v:ud v:nameU="PETagNumber"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="I-0" v:val="VT4(Instrumento)"/>
+					<v:ud v:nameU="PEHideTag"/>
+					<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+					<v:ud v:nameU="CPMSetList" v:prompt="Description,ConnectionSize,Service,Manufacturer,Model"
+							v:val="VT4(Instrumento)"/>
+					<v:ud v:nameU="SubType" v:prompt="" v:val="VT4()"/>
+					<v:ud v:nameU="SubType2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(I-100)"/>
+					<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(100):26"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="I-100" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEPageHideTags" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<title>Indicador 2</title>
+				<g id="shape1391-326" v:mID="1391" v:groupContext="shape" transform="translate(613.509,1418.87) rotate(134.189)">
+					<title>Planilha.1391</title>
+					<path d="M0 841.89 L34.03 841.89" class="st21"/>
+				</g>
+				<g id="shape1392-329" v:mID="1392" v:groupContext="shape" v:layerMember="3">
+					<title>Planilha.1392</title>
+					<v:userDefs>
+						<v:ud v:nameU="SubType2" v:val="VT0(1):26"/>
+						<v:ud v:nameU="XOffset" v:val="VT0(0.11811023622047):1"/>
+						<v:ud v:nameU="YOffset" v:val="VT0(0):1"/>
+						<v:ud v:nameU="SubType2" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="XOffset" v:prompt="" v:val="VT0(0.136670984746):1"/>
+					</v:userDefs>
+					<path d="M9.84 841.89 A9.84031 9.84031 -180 0 0 9.84 822.21 A9.84031 9.84031 -180 1 0 9.84 841.89 Z"
+							class="st22"/>
+				</g>
+				<g id="shape1393-331" v:mID="1393" v:groupContext="shape" v:layerMember="3" transform="translate(3.84031,-11.1587)">
+					<title>Planilha.1393</title>
+					<v:userDefs>
+						<v:ud v:nameU="SubType" v:val="VT4()"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6" cy="838.288" width="12.01" height="7.20349"/>
+				</g>
+			</g>
+			<g id="shape1394-332" v:mID="1394" v:groupContext="shape" transform="translate(0,-1.09648)">
+				<title>Planilha.1394</title>
+				<desc>TV 202</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="13.1479" cy="831.172" width="26.3" height="21.4359"/>
+				<rect x="0" y="820.454" width="26.2959" height="21.4359" class="st17"/>
+				<text x="9.46" y="829.07" class="st23" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>TV<v:newlineChar/><tspan
+							x="7.83" dy="1.2em" class="st19">202</tspan></text>			</g>
+		</g>
+		<g id="group1302-336" transform="translate(1124.99,312.011) rotate(90)" v:mID="1302" v:groupContext="group">
+			<title>Planilha.1302</title>
+			<g id="shape1303-337" v:mID="1303" v:groupContext="shape" v:layerMember="11"
+					transform="translate(34.1036,-5.0755) scale(-1,1)">
+				<title>Gate valve.30</title>
+				<v:custProps>
+					<v:cp v:nameU="Description" v:lbl="Description" v:type="0" v:sortKey="0" v:langID="1033"/>
+					<v:cp v:nameU="LineSize" v:lbl="Line Size" v:type="0" v:sortKey="1" v:langID="1033"/>
+					<v:cp v:nameU="ValveClass" v:lbl="Valve Class" v:type="0" v:sortKey="2" v:langID="1033"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Manufacturer" v:type="0" v:sortKey="3" v:langID="1033"/>
+					<v:cp v:nameU="Model" v:lbl="Model" v:type="0" v:sortKey="4" v:langID="1033"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+					<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT4(Valve)"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(Valve)"/>
+					<v:ud v:nameU="PETagNumber"/>
+					<v:ud v:nameU="PEHideTag"/>
+					<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+					<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(Valve)"/>
+					<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+					<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="V-8" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(8):26"/>
+					<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEPageHideTags" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(V-8)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="15.7775" cy="849.298" width="48" height="7.20349"/>
+				<path d="M0 819.05 L0 834.28 L31.56 819.05 L31.56 834.28 L0 819.05 Z" class="st6"/>
+			</g>
+			<g id="shape1305-339" v:mID="1305" v:groupContext="shape" transform="translate(18.3644,-30.1972)">
+				<title>Rectangle</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				</v:userDefs>
+				<rect x="0" y="831.26" width="4.25197" height="10.6299" class="st24"/>
+			</g>
+			<g id="shape1306-341" v:mID="1306" v:groupContext="shape" transform="translate(18.3281,-38.8618)">
+				<title>Planilha.1306</title>
+				<path d="M4.95 841.89 L4.59 841.89 L15.44 841.89 L15.44 817.31 L0 817.31 L0 823.54 L0 827.53" class="st4"/>
+			</g>
+			<g id="shape1307-344" v:mID="1307" v:groupContext="shape" transform="translate(-823.545,821.932) rotate(-90.0392)">
+				<title>Planilha.1307</title>
+				<path d="M0 841.89 L24.02 841.89" class="st4"/>
+			</g>
+			<g id="shape1308-347" v:mID="1308" v:groupContext="shape" transform="translate(11.8346,-13.6917)">
+				<title>Planilha.1308</title>
+				<ellipse cx="6.47244" cy="835.417" rx="6.47244" ry="6.47244" class="st6"/>
+			</g>
+			<g id="group1309-349" transform="translate(10.6673,-44.3357)" v:mID="1309" v:groupContext="group">
+				<title>Planilha.1309</title>
+				<g id="shape1310-350" v:mID="1310" v:groupContext="shape">
+					<title>Planilha.1310</title>
+					<rect x="0" y="833.004" width="15.3217" height="8.88544" class="st6"/>
+				</g>
+				<g id="shape1311-352" v:mID="1311" v:groupContext="shape" transform="translate(-1.4988E-014,-4.39877)">
+					<title>Planilha.1311</title>
+					<path d="M0 841.89 L15.32 841.89" class="st4"/>
+				</g>
+				<g id="shape1312-355" v:mID="1312" v:groupContext="shape" transform="translate(849.551,837.491) rotate(90)">
+					<title>Planilha.1312</title>
+					<path d="M0 841.89 L4.18 841.89" class="st4"/>
+				</g>
+			</g>
+		</g>
+		<g id="group1300-358" transform="translate(111.189,-507.677)" v:mID="1300" v:groupContext="group">
+			<title>Planilha.1300</title>
+			<g id="shape1247-359" v:mID="1247" v:groupContext="shape" v:layerMember="11"
+					transform="translate(34.1036,-5.0755) scale(-1,1)">
+				<title>Gate valve.30</title>
+				<v:custProps>
+					<v:cp v:nameU="Description" v:lbl="Description" v:type="0" v:sortKey="0" v:langID="1033"/>
+					<v:cp v:nameU="LineSize" v:lbl="Line Size" v:type="0" v:sortKey="1" v:langID="1033"/>
+					<v:cp v:nameU="ValveClass" v:lbl="Valve Class" v:type="0" v:sortKey="2" v:langID="1033"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Manufacturer" v:type="0" v:sortKey="3" v:langID="1033"/>
+					<v:cp v:nameU="Model" v:lbl="Model" v:type="0" v:sortKey="4" v:langID="1033"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+					<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT4(Valve)"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(Valve)"/>
+					<v:ud v:nameU="PETagNumber"/>
+					<v:ud v:nameU="PEHideTag"/>
+					<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+					<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(Valve)"/>
+					<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+					<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="V-7" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(7):26"/>
+					<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEPageHideTags" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(V-7)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="15.7775" cy="849.298" width="48" height="7.20349"/>
+				<path d="M0 819.05 L0 834.28 L31.56 819.05 L31.56 834.28 L0 819.05 Z" class="st6"/>
+			</g>
+			<g id="shape1250-361" v:mID="1250" v:groupContext="shape" transform="translate(18.3644,-30.1972)">
+				<title>Rectangle</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				</v:userDefs>
+				<rect x="0" y="831.26" width="4.25197" height="10.6299" class="st24"/>
+			</g>
+			<g id="shape1254-363" v:mID="1254" v:groupContext="shape" transform="translate(18.3281,-38.8618)">
+				<title>Planilha.1254</title>
+				<path d="M4.95 841.89 L4.59 841.89 L15.44 841.89 L15.44 817.31 L0 817.31 L0 823.54 L0 827.53" class="st4"/>
+			</g>
+			<g id="shape1255-366" v:mID="1255" v:groupContext="shape" transform="translate(-823.545,821.932) rotate(-90.0392)">
+				<title>Planilha.1255</title>
+				<path d="M0 841.89 L24.02 841.89" class="st4"/>
+			</g>
+			<g id="shape1298-369" v:mID="1298" v:groupContext="shape" transform="translate(11.8346,-13.6917)">
+				<title>Planilha.1298</title>
+				<ellipse cx="6.47244" cy="835.417" rx="6.47244" ry="6.47244" class="st6"/>
+			</g>
+			<g id="group1299-371" transform="translate(10.6673,-44.3357)" v:mID="1299" v:groupContext="group">
+				<title>Planilha.1299</title>
+				<g id="shape1251-372" v:mID="1251" v:groupContext="shape">
+					<title>Planilha.1251</title>
+					<rect x="0" y="833.004" width="15.3217" height="8.88544" class="st6"/>
+				</g>
+				<g id="shape1252-374" v:mID="1252" v:groupContext="shape" transform="translate(-1.4988E-014,-4.39877)">
+					<title>Planilha.1252</title>
+					<path d="M0 841.89 L15.32 841.89" class="st4"/>
+				</g>
+				<g id="shape1253-377" v:mID="1253" v:groupContext="shape" transform="translate(849.551,837.491) rotate(90)">
+					<title>Planilha.1253</title>
+					<path d="M0 841.89 L4.18 841.89" class="st4"/>
+				</g>
+			</g>
+		</g>
+		<g id="group1329-380" transform="translate(247.948,-204.153)" v:mID="1329" v:groupContext="group">
+			<title>Planilha.1329</title>
+			<g id="shape1330-381" v:mID="1330" v:groupContext="shape" v:layerMember="11"
+					transform="translate(34.1036,-5.0755) scale(-1,1)">
+				<title>Gate valve.30</title>
+				<v:custProps>
+					<v:cp v:nameU="Description" v:lbl="Description" v:type="0" v:sortKey="0" v:langID="1033"/>
+					<v:cp v:nameU="LineSize" v:lbl="Line Size" v:type="0" v:sortKey="1" v:langID="1033"/>
+					<v:cp v:nameU="ValveClass" v:lbl="Valve Class" v:type="0" v:sortKey="2" v:langID="1033"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Manufacturer" v:type="0" v:sortKey="3" v:langID="1033"/>
+					<v:cp v:nameU="Model" v:lbl="Model" v:type="0" v:sortKey="4" v:langID="1033"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+					<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT4(Valve)"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(Valve)"/>
+					<v:ud v:nameU="PETagNumber"/>
+					<v:ud v:nameU="PEHideTag"/>
+					<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+					<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(Valve)"/>
+					<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+					<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="V-10" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(10):26"/>
+					<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEPageHideTags" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(V-10)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="15.7775" cy="849.298" width="48" height="7.20349"/>
+				<path d="M0 819.05 L0 834.28 L31.56 819.05 L31.56 834.28 L0 819.05 Z" class="st6"/>
+			</g>
+			<g id="shape1332-383" v:mID="1332" v:groupContext="shape" transform="translate(18.3644,-30.1972)">
+				<title>Rectangle</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				</v:userDefs>
+				<rect x="0" y="831.26" width="4.25197" height="10.6299" class="st24"/>
+			</g>
+			<g id="shape1333-385" v:mID="1333" v:groupContext="shape" transform="translate(18.3281,-38.8618)">
+				<title>Planilha.1333</title>
+				<path d="M4.95 841.89 L4.59 841.89 L15.44 841.89 L15.44 817.31 L0 817.31 L0 823.54 L0 827.53" class="st4"/>
+			</g>
+			<g id="shape1334-388" v:mID="1334" v:groupContext="shape" transform="translate(-823.545,821.932) rotate(-90.0392)">
+				<title>Planilha.1334</title>
+				<path d="M0 841.89 L24.02 841.89" class="st4"/>
+			</g>
+			<g id="shape1335-391" v:mID="1335" v:groupContext="shape" transform="translate(11.8346,-13.6917)">
+				<title>Planilha.1335</title>
+				<ellipse cx="6.47244" cy="835.417" rx="6.47244" ry="6.47244" class="st6"/>
+			</g>
+			<g id="group1336-393" transform="translate(10.6673,-44.3357)" v:mID="1336" v:groupContext="group">
+				<title>Planilha.1336</title>
+				<g id="shape1337-394" v:mID="1337" v:groupContext="shape">
+					<title>Planilha.1337</title>
+					<rect x="0" y="833.004" width="15.3217" height="8.88544" class="st6"/>
+				</g>
+				<g id="shape1338-396" v:mID="1338" v:groupContext="shape" transform="translate(-1.4988E-014,-4.39877)">
+					<title>Planilha.1338</title>
+					<path d="M0 841.89 L15.32 841.89" class="st4"/>
+				</g>
+				<g id="shape1339-399" v:mID="1339" v:groupContext="shape" transform="translate(849.551,837.491) rotate(90)">
+					<title>Planilha.1339</title>
+					<path d="M0 841.89 L4.18 841.89" class="st4"/>
+				</g>
+			</g>
+		</g>
+		<g id="group1395-402" transform="translate(96.7278,-707.71)" v:mID="1395" v:groupContext="group">
+			<title>Planilha.1395</title>
+			<g id="group1396-403" transform="translate(3.30762,-1.97413)" v:mID="1396" v:groupContext="group" v:layerMember="3">
+				<v:custProps>
+					<v:cp v:nameU="SubType" v:lbl="Tipo de instrumento" v:type="0" v:langID="1046" v:val="VT4()"/>
+					<v:cp v:nameU="SubType2" v:lbl="Local/remoto" v:type="1" v:format="Local;Remoto;Auxiliar" v:langID="1046"
+							v:val="VT4(Remoto)"/>
+					<v:cp v:nameU="Description" v:lbl="Descrição" v:type="0" v:sortKey="0" v:langID="1046"/>
+					<v:cp v:nameU="ConnectionSize" v:lbl="Tamanho da Conexão" v:type="0" v:sortKey="1" v:langID="1046"/>
+					<v:cp v:nameU="Service" v:lbl="Serviço" v:type="0" v:sortKey="2" v:langID="1046"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Fabricante" v:type="0" v:sortKey="3" v:langID="1046"/>
+					<v:cp v:nameU="Model" v:lbl="Modelo" v:type="0" v:sortKey="4" v:langID="1046"/>
+					<v:cp v:nameU="SubType2" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(Local)"/>
+					<v:cp v:nameU="Description" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(1)"/>
+					<v:cp v:nameU="ConnectionSize" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(2)"/>
+					<v:cp v:nameU="Service" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(3)"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="0" v:cal="0" v:val="VT4(4)"/>
+					<v:cp v:nameU="Model" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="0" v:cal="0" v:val="VT4(5)"/>
+					<v:cp v:nameU="103" v:lbl="Tipo de instrumento" v:type="0" v:langID="1046" v:val="VT4()"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="SubType" v:val="VT4()"/>
+					<v:ud v:nameU="SubType2" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SetWidth" v:val="VT0(0):26"/>
+					<v:ud v:nameU="UnitSize" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="ResizeWithText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT4(Instrumento)"/>
+					<v:ud v:nameU="PEComponentTag" v:val="VT4(I-0)"/>
+					<v:ud v:nameU="PETagNumber"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="I-0" v:val="VT4(Instrumento)"/>
+					<v:ud v:nameU="PEHideTag"/>
+					<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+					<v:ud v:nameU="CPMSetList" v:prompt="Description,ConnectionSize,Service,Manufacturer,Model"
+							v:val="VT4(Instrumento)"/>
+					<v:ud v:nameU="SubType" v:prompt="" v:val="VT4()"/>
+					<v:ud v:nameU="SubType2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(I-101)"/>
+					<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(101):26"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="I-101" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEPageHideTags" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<title>Indicador 2</title>
+				<g id="shape1397-404" v:mID="1397" v:groupContext="shape" transform="translate(-618.441,271.656) rotate(-48.2687)">
+					<title>Planilha.1397</title>
+					<path d="M0 841.89 L28.98 841.89" class="st21"/>
+				</g>
+				<g id="shape1398-407" v:mID="1398" v:groupContext="shape" v:layerMember="3">
+					<title>Planilha.1398</title>
+					<v:userDefs>
+						<v:ud v:nameU="SubType2" v:val="VT0(1):26"/>
+						<v:ud v:nameU="XOffset" v:val="VT0(0.11811023622047):1"/>
+						<v:ud v:nameU="YOffset" v:val="VT0(0):1"/>
+						<v:ud v:nameU="SubType2" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="XOffset" v:prompt="" v:val="VT0(0.136670984746):1"/>
+					</v:userDefs>
+					<path d="M9.84 841.89 A9.84031 9.84031 -180 0 0 9.84 822.21 A9.84031 9.84031 -180 1 0 9.84 841.89 Z"
+							class="st22"/>
+				</g>
+				<g id="shape1399-409" v:mID="1399" v:groupContext="shape" v:layerMember="3" transform="translate(3.84031,-11.1587)">
+					<title>Planilha.1399</title>
+					<v:userDefs>
+						<v:ud v:nameU="SubType" v:val="VT4()"/>
+					</v:userDefs>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6" cy="838.288" width="12.01" height="7.20349"/>
+				</g>
+			</g>
+			<g id="shape1400-410" v:mID="1400" v:groupContext="shape" transform="translate(0,-1.09648)">
+				<title>Planilha.1400</title>
+				<desc>LV 101</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="13.1479" cy="831.172" width="26.3" height="21.4359"/>
+				<rect x="0" y="820.454" width="26.2959" height="21.4359" class="st17"/>
+				<text x="9.69" y="829.07" class="st23" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>LV<v:newlineChar/><tspan
+							x="7.83" dy="1.2em" class="st19">101</tspan></text>			</g>
+		</g>
+		<g id="group1313-414" transform="translate(111.189,-720.848)" v:mID="1313" v:groupContext="group">
+			<title>Planilha.1313</title>
+			<g id="shape1314-415" v:mID="1314" v:groupContext="shape" v:layerMember="11"
+					transform="translate(34.1036,-5.0755) scale(-1,1)">
+				<title>Gate valve.30</title>
+				<v:custProps>
+					<v:cp v:nameU="Description" v:lbl="Description" v:type="0" v:sortKey="0" v:langID="1033"/>
+					<v:cp v:nameU="LineSize" v:lbl="Line Size" v:type="0" v:sortKey="1" v:langID="1033"/>
+					<v:cp v:nameU="ValveClass" v:lbl="Valve Class" v:type="0" v:sortKey="2" v:langID="1033"/>
+					<v:cp v:nameU="Manufacturer" v:lbl="Manufacturer" v:type="0" v:sortKey="3" v:langID="1033"/>
+					<v:cp v:nameU="Model" v:lbl="Model" v:type="0" v:sortKey="4" v:langID="1033"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+					<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+					<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+					<v:ud v:nameU="ShapeClass" v:val="VT4(Valve)"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(Valve)"/>
+					<v:ud v:nameU="PETagNumber"/>
+					<v:ud v:nameU="PEHideTag"/>
+					<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+					<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(Valve)"/>
+					<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+					<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PETagFormat" v:prompt="V-9" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PETagNumber" v:prompt="" v:val="VT0(9):26"/>
+					<v:ud v:nameU="PEHideTag" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PEPageHideTags" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="PEComponentTag" v:prompt="" v:val="VT4(V-9)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="15.7775" cy="849.298" width="48" height="7.20349"/>
+				<path d="M0 819.05 L0 834.28 L31.56 819.05 L31.56 834.28 L0 819.05 Z" class="st6"/>
+			</g>
+			<g id="shape1316-417" v:mID="1316" v:groupContext="shape" transform="translate(18.3644,-30.1972)">
+				<title>Rectangle</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				</v:userDefs>
+				<rect x="0" y="831.26" width="4.25197" height="10.6299" class="st24"/>
+			</g>
+			<g id="shape1317-419" v:mID="1317" v:groupContext="shape" transform="translate(18.3281,-38.8618)">
+				<title>Planilha.1317</title>
+				<path d="M4.95 841.89 L4.59 841.89 L15.44 841.89 L15.44 817.31 L0 817.31 L0 823.54 L0 827.53" class="st4"/>
+			</g>
+			<g id="shape1318-422" v:mID="1318" v:groupContext="shape" transform="translate(-823.545,821.932) rotate(-90.0392)">
+				<title>Planilha.1318</title>
+				<path d="M0 841.89 L24.02 841.89" class="st4"/>
+			</g>
+			<g id="shape1319-425" v:mID="1319" v:groupContext="shape" transform="translate(11.8346,-13.6917)">
+				<title>Planilha.1319</title>
+				<ellipse cx="6.47244" cy="835.417" rx="6.47244" ry="6.47244" class="st6"/>
+			</g>
+			<g id="group1320-427" transform="translate(10.6673,-44.3357)" v:mID="1320" v:groupContext="group">
+				<title>Planilha.1320</title>
+				<g id="shape1321-428" v:mID="1321" v:groupContext="shape">
+					<title>Planilha.1321</title>
+					<rect x="0" y="833.004" width="15.3217" height="8.88544" class="st6"/>
+				</g>
+				<g id="shape1322-430" v:mID="1322" v:groupContext="shape" transform="translate(-1.4988E-014,-4.39877)">
+					<title>Planilha.1322</title>
+					<path d="M0 841.89 L15.32 841.89" class="st4"/>
+				</g>
+				<g id="shape1323-433" v:mID="1323" v:groupContext="shape" transform="translate(849.551,837.491) rotate(90)">
+					<title>Planilha.1323</title>
+					<path d="M0 841.89 L4.18 841.89" class="st4"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1407-436" v:mID="1407" v:groupContext="shape" transform="translate(310.11,-82.3411) scale(-1,1)">
+			<title>Planilha.1407</title>
+			<desc>TR</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="8.4615" cy="834.595" width="16.93" height="14.5888"/>
+			<rect x="0" y="827.301" width="16.923" height="14.5888" class="st17"/>
+			<text x="-12.58" y="837" transform="scale(-1,1)" class="st5" v:langID="1046"><v:paragraph v:horizAlign="1"/><v:tabList/>TR</text>		</g>
+	</g>
+</svg>
