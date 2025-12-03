@@ -5,6 +5,20 @@
 \usepackage[brazil]{babel}
 \usepackage{amsmath}
 \usepackage{geometry}
+\usepackage{longtable}
+\usepackage{float}
+
+\usepackage{microtype} % better line breaking and character protrusion
+\usepackage{grffile}   % allow graphics filenames with spaces/multiple dots
+\usepackage[hyphens]{url} % allow breaks at hyphens in URLs/paths
+\usepackage{seqsplit}  % allow breaking very long unbreakable strings
+
+% Relax typesetting to avoid overfull boxes (use with care)
+\emergencystretch=1.5em
+\tolerance=800
+\hyphenpenalty=200
+\sloppy
+
 \geometry{a4paper, margin=1in}
 
 \title{Relatório 3: Correção e Modernização da Documentação da planta STEC e Calibração do Sensor de Nível}
@@ -17,6 +31,10 @@
 
 \section{Introdução}
 
+O presente relatório tem como objetivo apresentar as atividades desenvolvidas para a modernização da documentação e configuração da planta didática STEC (Sistema de Tanques para Estudo de Controle). 
+
+O trabalho abrange a revisão do Fluxograma de Processo e Instrumentação (P\&ID) para adequação à norma ANSI/ISA-5.1-2009, estabelecendo uma nova nomenclatura padronizada e a divisão da planta em unidades lógicas. Além disso, descreve-se a estratégia de configuração da rede Foundation Fieldbus e o procedimento de calibração do transmissor de nível (LIT-101), incluindo a análise de incertezas e erros de medição, visando garantir a conformidade normativa e a confiabilidade metrológica do sistema.
+
 \section{Documentação e Projeto}
 
 \subsection{Nova Estrutura de Identificação}
@@ -28,22 +46,36 @@ A planta foi dividida em duas unidades principais para a numeração dos instrum
     \item Unidade 200: Tanque de Produto (TP) e linhas associadas.
 \end{itemize}
 
-As letras de As letras de identificação foram atualizadas para remover os sufixos "CV" (Control Valve) dos TAGs de válvulas, passando a usar apenas "V" (Valve), conforme a norma ISA 5.1-2009.
+As letras de As letras de identificação foram atualizadas para remover os sufixos "CV" dos TAGs de válvulas, passando a usar apenas "V", conforme a norma ISA 5.1-2009.
 
 \subsection{Lista de Instrumentos}
 
 Nesta tabela, os instrumentos são listados com suas novas identificações:
 
-\begin{table}[ht]
-\centering
-\small
-\begin{tabular}{>{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{2.2cm} >{\raggedright\arraybackslash}p{4cm} >{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{2.2cm}}
+\begin{longtable}{>{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{2.2cm} >{\raggedright\arraybackslash}p{4cm} >{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{2.2cm}}
+\caption{Lista de Instrumentos — novas identificações}
+\label{tab:lista-instrumentos} \\
 \hline
 \textbf{Novo TAG} & \textbf{TAG Antigo} & \textbf{Descrição} & \textbf{Unidade} & \textbf{Tipo de Sinal} \\
 \hline
+\endfirsthead
+
+\multicolumn{5}{c}{{\tablename\ \thetable{} -- continuação}} \\
+\hline
+\textbf{Novo TAG} & \textbf{TAG Antigo} & \textbf{Descrição} & \textbf{Unidade} & \textbf{Tipo de Sinal} \\
+\hline
+\endhead
+
+\hline \multicolumn{5}{r}{{Continua na próxima página}} \\ \hline
+\endfoot
+
+\hline
+\endlastfoot
+
 \multicolumn{5}{l}{\textbf{Malha 101 - Controle de Nível do TAQ}} \\
 LIT-101 & LIT1 & Transmissor Indicador de Nível & TAQ & Fieldbus \\
 LIC-101 & LC1 & Controlador Indicador de Nível & TAQ & Fieldbus \\
+LY-101 & - & Conversor de Sinal & Campo & 4-20 mA \\
 LV-101 & LCV1 & Válvula de Controle de Nível & TAQ & Pneumático \\
 LSH-101 & - & Chave de Nível Alto & TAQ & Fieldbus \\
 LSL-101 & - & Chave de Nível Baixo & TAQ & Fieldbus \\
@@ -60,6 +92,7 @@ TE-102 & TE1 & Elemento Sensor de Temperatura & TAQ & Físico \\
 \multicolumn{5}{l}{\textbf{Malha 201 - Controle de Nível do TP}} \\
 LIT-201 & LIT2 & Transmissor Indicador de Nível & TP & Fieldbus \\
 LIC-201 & LC2 & Controlador Indicador de Nível & TP & Fieldbus \\
+LY-201 & - & Conversor de Sinal & Campo & 4-20 mA \\
 LV-201 & LCV2 & Válvula de Controle de Nível & TP & Pneumático \\
 LSH-201 & - & Chave de Nível Alto & TP & Fieldbus \\
 LSL-201 & - & Chave de Nível Baixo & TP & Fieldbus \\
@@ -67,13 +100,15 @@ LSL-201 & - & Chave de Nível Baixo & TP & Fieldbus \\
 \multicolumn{5}{l}{\textbf{Malha 202 - Controle de Temperatura do TP}} \\
 TIT-202 & TIT2 & Transmissor Indicador de Temperatura & TP & Fieldbus \\
 TIC-202 & TC2 & Controlador Indicador de Temperatura & TP & Fieldbus \\
-TY-202 & - & Conversor de Sinal & Campo & 4-20 mA \\
+TY-202A & - & Conversor de Sinal & Campo & 4-20 mA \\
 TE-202 & TE2 & Elemento Sensor de Temperatura & TP & Físico \\
+TY-202B & - & Conversor de Sinal & Campo & 4-20 mA \\
 TV-202 & TCV1 & Válvula de Controle de Temperatura & TP & Pneumático \\
 \hline
 \multicolumn{5}{l}{\textbf{Malha 203 - Controle de Vazão de Saída do TP}} \\
 FIT-203 & FIT4 & Transmissor Indicador de Vazão & TP & Fieldbus \\
 FIC-203 & FC4 & Controlador Indicador de Vazão & TP & Fieldbus \\
+FY-203 & - & Conversor de Sinal & Campo & 4-20 mA \\
 FV-203 & FCV1 & Válvula de Controle de Vazão & TP & Pneumático \\
 \hline
 \multicolumn{5}{l}{\textbf{Instrumentos de Indicação e Outros}} \\
@@ -84,11 +119,14 @@ LG-101 & LG1 & Visor de Nível (Local) & TAQ & Visual \\
 LG-201 & LG2 & Visor de Nível (Local) & TP & Visual \\
 P-101 & BA1 & Bomba Centrífuga (Alimentação) & TR & Elétrico \\
 P-201 & BA2 & Bomba Centrífuga (Recirculação/Drenagem) & TP & Elétrico \\
-\hline
-\end{tabular}
-\caption{Lista de Instrumentos — novas identificações}
-\label{tab:lista-instrumentos}
-\end{table}
+KM-101 & - & Contator de alimentação da Bomba P-101 & TR & Elétrico de Potência \\
+KM-201 & - & Contator de alimentação da Bomba P-201 & TP & Elétrico de Potência \\
+KM-102 & - & Contator de alimentação de TZ-102 & TAQ & Elétrico de Potência \\
+\multicolumn{5}{l}{\textbf{CLP, Rede e Computadores}} \\
+CLP-1 & CLP1 & Controlador Lógico Programável & Campo & Serial \\
+FFGW-1 & - & Gateway Fieldbus Foundation & Campo & Fieldbus \\
+PC-1 & PC1 & Computador de Supervisão & Sala de Controle & Serial / Fieldbus \\
+\end{longtable}
 
 \subsection{Descritivo Funcional das Malhas}
 
@@ -107,6 +145,175 @@ Controla a temperatura da mistura no Tanque de Produto. A medida de temperatura 
 \subsubsection{Malha de Controle de Vazão de Saída}
 Esta malha controla a vazão de escoamento do TP para manter a taxa de saída desejada. O transmissor de vazão FIT-203 fornece a medida ao controlador FIC-203, que atua sobre a válvula FV-203 (linha de saída), permitindo direcionar o fluxo para retorno ao reservatório ou descarte. O controlador mantém o setpoint de vazão e garante estabilidade diante de perturbações de nível e entrada.
 
+\subsection{P\&ID}
 
+A figura \ref{fig:peid} mostra o diagrama de projeto atualizado.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{peid.png}
+    \caption{Diagrama P\&ID atualizado da planta STEC}
+    \label{fig:peid}
+\end{figure}
+
+\section{Configuração da Rede Foundation Fieldbus}
+
+A configuração do sistema de automação foi realizada utilizando o software Syscon (System302 da SMAR). A arquitetura de rede implementada segue a topologia mista definida no projeto, composta por:
+
+\begin{itemize}
+    \item \textbf{Nível HSE (High Speed Ethernet):} Rede de alta velocidade (100 Mbps) para supervisão e controle, interligando a estação de engenharia e a controladora DFI302.
+    \item \textbf{Bridge (DFI302):} Atua como gateway entre as redes HSE e H1, além de processar blocos lógicos complexos.
+    \item \textbf{Nível H1 (31.25 kbps):} Barramento de campo onde residem os instrumentos inteligentes.
+\end{itemize}
+
+A estratégia de controle foi distribuída nos dispositivos de campo. Para cada malha (ex: Malha 202 - Temperatura do TP), instanciaram-se os blocos funcionais conforme a norma:
+\begin{enumerate}
+    \item \textbf{Bloco AI (Analog Input):} No transmissor TIT-202, responsável pela aquisição e linearização da temperatura.
+    \item \textbf{Bloco PID:} Configurado para executar o algoritmo de controle, recebendo a PV do bloco AI e o Setpoint (SP) via supervisório.
+    \item \textbf{Bloco AO (Analog Output):} No conversor FI302 (TAG CONV-02), recebendo o sinal de controle (MV) do PID e convertendo-o em corrente (4-20 mA) para atuar na válvula pneumática TV-202.
+\end{enumerate}
+
+Todos os dispositivos foram configurados com os blocos mandatórios \textit{Resource} (RSC), \textit{Transducer} (TRD) e \textit{Display} (DSP) para garantir o correto gerenciamento de recursos e diagnóstico.
+
+\ref{fig:scada} mostra a tela inicial do supervisório do sistema.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{dados e enunciado/prints da aula/SCADA.PNG}
+    \caption{Supervisório da planta}
+    \label{fig:scada}
+\end{figure}
+
+A captura \ref{fig:scada_malhas} mostra as telas de controle das malhas implementadas.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{dados e enunciado/prints da aula/SCADA2.PNG}
+    \caption{Telas de controle das malhas}
+    \label{fig:scada_malhas}
+\end{figure}
+
+
+Os blocos configuração dos instrumentos de temperatura e vazão é apresentada na figura \ref{fig:syscon_temp_vazao}.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{dados e enunciado/prints da aula/Syscon1.PNG}
+    \caption{Configuração dos instrumentos de temperatura e vazão no Syscon}
+    \label{fig:syscon_temp_vazao}
+\end{figure}
+
+A figura \ref{fig:syscon_nivel_conv} mostra a configuração do transmissor de nível e dos conversores de sinal no software Syscon.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{dados e enunciado/prints da aula/Syscon2.PNG}
+    \caption{Configuração do transmissor de nível e conversores de sinal no Syscon}
+    \label{fig:syscon_nivel_conv}
+\end{figure}
+
+Por fim, a figura \ref{fig:syscon_clp} mostra a configuração do gateway CLP no software Syscon.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{dados e enunciado/prints da aula/Syscon3.PNG}
+    \caption{Configuração do gateway CLP no Syscon}
+    \label{fig:syscon_clp}
+\end{figure}
+
+\section{Calibração do Transmissor de Nível LIT-101}
+
+O procedimento de calibração do transmissor de nível LIT-101 foi realizado comparando-se os valores indicados pelo instrumento (via rede Fieldbus) com os valores de referência observados no visor de nível local (padrão), cobrindo a faixa de operação do Tanque de Aquecimento (TAQ).
+
+Considerando as características construtivas da planta, foram observadas as seguintes elevações para a análise da pressão da coluna líquida:
+\begin{itemize}
+    \item Altura entre o mínimo do visor e a saída de água ($h_1$): 65 mm.
+    \item Altura entre a tomada de pressão e o sensor ($h_2$): 265 mm.
+    \item Altura entre o máximo do visor e o ladrão ($h_3$): 20 mm.
+\end{itemize}
+
+\subsection{Dados Coletados}
+
+A Tabela \ref{tab:dados_calibracao} apresenta os dados coletados durante o ensaio.
+
+\begin{table}[H]
+    \centering
+    \caption{Dados de Calibração: Visor Local vs. LIT-101}
+    \label{tab:dados_calibracao}
+    \begin{tabular}{|c|c|c|}
+        \hline
+        \textbf{Ponto} & \textbf{Padrão - Visor (mm)} & \textbf{Indicado - LIT-101 (mm)} \\
+        \hline
+        1  & 485.0 & 480.5 \\
+        2  & 449.0 & 448.7 \\
+        3  & 398.0 & 395.3 \\
+        4  & 350.0 & 347.7 \\
+        5  & 298.0 & 297.9 \\
+        6  & 252.0 & 252.2 \\
+        7  & 201.0 & 202.0 \\
+        8  & 147.0 & 149.8 \\
+        9  & 104.0 & 105.8 \\
+        10 & 65.0  & 66.8  \\
+        \hline
+    \end{tabular}
+\end{table}
+
+\subsection{Curva de Calibração e Regressão Linear}
+
+A partir dos dados experimentais, aplicou-se o método dos mínimos quadrados para obter a curva de calibração estática, relacionando a indicação do instrumento ($y$) com o valor padrão ($x$). A equação da reta ajustada é dada por:
+
+\begin{equation}
+    y = 0.9863 \cdot x + 3.5435
+\end{equation}
+
+O coeficiente de determinação obtido foi $R^2 = 0.99994$, indicando um altíssimo grau de linearidade e ajuste do modelo aos dados. A Figura \ref{fig:calibracao_lit101} ilustra a curva de calibração e os pontos medidos.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{calibracao_lit101.png}
+    \caption{Curva de Calibração do LIT-101 com reta de regressão ajustada}
+    \label{fig:calibracao_lit101}
+\end{figure}
+
+\subsection{Análise de Incertezas e Erros}
+
+A incerteza do sistema de medição foi estimada considerando a dispersão dos dados em relação à reta ajustada (incerteza do tipo A). Conforme metodologia simplificada para esta etapa, desconsiderou-se a incerteza herdada do padrão e a covariância dos parâmetros da reta.
+
+\begin{itemize}
+    \item \textbf{Desvio Padrão dos Resíduos ($S_y$):} 1.2093 mm.
+    \item \textbf{Incerteza Padrão ($u$):} Calculada pela razão entre $S_y$ e o coeficiente angular ($a$), resultando em $1.2260$ mm.
+    \item \textbf{Graus de Liberdade ($\nu$):} Com $n=10$ pontos, $\nu = n - 2 = 8$.
+    \item \textbf{Incerteza Expandida ($U$):} Para um nível de confiança de 95,45\%, utilizou-se o fator de abrangência t-Student $t_{95.45, 8} \approx 2.37$.
+\end{itemize}
+
+\begin{equation}
+    U = t \times u = 2.3664 \times 1.2260 \approx 2.90 \text{ mm}
+\end{equation}
+
+Portanto, o resultado da calibração indica uma incerteza expandida de \textbf{2.90 mm} para o transmissor.
+
+\subsubsection{Linearidade e Erro Fiducial}
+
+A linearidade foi calculada como o maior resíduo absoluto em relação à reta de calibração, e o erro fiducial como o maior erro absoluto em relação ao padrão dividido pelo fundo de escala (Span = 500 mm).
+
+\begin{itemize}
+    \item \textbf{Linearidade:} 2.32 mm (0.46\% do Span).
+    \item \textbf{Erro Máximo (Leitura - Padrão):} 4.50 mm.
+    \item \textbf{Erro Fiducial:} 0.90\%.
+\end{itemize}
+
+Os resultados demonstram que o transmissor opera dentro de limites aceitáveis de precisão para o controle de nível proposto na planta STEC.
+
+\section{Conclusão}
+
+O trabalho cumpriu os objetivos de modernização da documentação técnica e garantia da confiabilidade metrológica da planta didática STEC. As atividades desenvolvidas permitiram a integração entre os conceitos normativos de instrumentação e a prática de configuração de redes industriais.
+
+No que tange à documentação, a revisão do Fluxograma de Processo e Instrumentação (P\&ID) e a reestruturação das tags conforme a norma ANSI/ISA-5.1-2009 proporcionaram uma identificação mais lógica e rastreável dos ativos, dividindo a planta nas unidades de Aquecimento (100) e Produto (200). Essa padronização é fundamental para a manutenção e operação segura do sistema.
+
+A configuração da rede Foundation Fieldbus via software Syscon validou a arquitetura de controle distribuído. A correta instanciação e encadeamento dos blocos funcionais (AI, PID, AO) e dos blocos de recursos (Resource e Transducer) permitiram que a estratégia de controle fosse efetivamente implementada nos dispositivos de campo, garantindo a comunicação entre a instrumentação e o sistema supervisório.
+
+Em relação à calibração do transmissor de nível LIT-101, a análise estatística dos dados coletados comprovou a linearidade do instrumento, evidenciada por um coeficiente de determinação ($R^2$) próximo da unidade. A incerteza expandida calculada de aproximadamente 2.90 mm, para um nível de confiança de 95.45\%, demonstra que o erro de medição é pouco significativo em relação à faixa de operação do tanque (Span de 500 mm). A análise de erros fiduciais confirmou que o sensor opera em limites aceitáveis de precisão.
+
+Conclui-se, portanto, que a planta STEC encontra-se apta para operações de controle, com sua instrumentação devidamente documentada, configurada e validada metrologicamente. O procedimento destacou a importância da calibração periódica e da análise de incertezas para garantir a qualidade das variáveis de processo em malhas de controle industrial.
 
 \end{document}
